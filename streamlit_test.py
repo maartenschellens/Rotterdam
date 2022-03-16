@@ -24,6 +24,9 @@ last_month_rev = " ".join(last_month.values[0].split()[::-1])
 df = pd.read_csv(os.path.join(os.getcwd(), "data", "vf_pag1_alarmwaarden.csv"),
                 delimiter=',').drop('Unnamed: 0', axis = 'columns')
 
+df_seasonal = pd.read_csv(os.path.join(os.getcwd(), "data", 'maandafwijkingen_misdaad.csv'),
+                delimiter=',').drop('Unnamed: 0', axis = 'columns')
+
 neighbourhoods = np.sort(df['Wijken en buurten'].unique())
 
 st.sidebar.write("### Selecteer buurt van Rotterdam")
@@ -80,3 +83,24 @@ if page == "Heden":
 if page == 'Toekomst':
     st.title("Volgende maand: de criminaliteitskalender")
     st.write('De inhoud van deze pagina moet nog ontwikkeld worden')
+    
+    df_seasonal_buurt_geselecteerd = df_seasonal[df_seasonal['Wijken en buurten'] == buurt].copy()
+    
+    for month in df_seasonal_buurt_geselecteerd['Maand'].unique():
+         with st.expander("{}".format(month)):
+            df_seasonal_subset = df_seasonal_buurt_geselecteerd[df_seasonal_buurt_geselecteerd['Maand'] == month].replace([np.inf, -np.inf], np.nan).dropna().sort_values('pct_tov_mediaan', ascending = False)
+            
+            nrows_seasonal_subset = df_seasonal_subset.shape[0]
+            
+            if nrows_seasonal_subset > 0:
+                
+#                 Tijdelijk negeren we het aantal rijen en gebruiken we 5 rijen als maximale input
+                columns_calendar = st.columns(3)
+                
+                for i in range(3):
+                    columns_calendar[i].metric('',
+                              df_seasonal_subset['Soort misdrijf'].iloc[i],
+                              "{:.0%} ten opzichte van dezelfde maand vorig jaar".format(df_seasonal_subset['pct_tov_mediaan'].iloc[i]),
+                             delta_color = 'inverse')
+    
+    
