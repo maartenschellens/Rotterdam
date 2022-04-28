@@ -66,7 +66,7 @@ number_month_dict = {1:'januari',
                                                       11: 'november',
                                                       12: 'december'}
 
-df_ts = pd.read_csv(os.path.join(os.getcwd(), "data", "misdaad_input_correct_dates.csv"),
+df_ts = pd.read_csv(os.path.join(os.getcwd(), "data", "ts_alarmwaarden.csv"),
                 delimiter=',')
 
 unieke_jaren = df_ts.groupby(pd.to_datetime(df_ts['Datum']).dt.year)['Datum'].max().values
