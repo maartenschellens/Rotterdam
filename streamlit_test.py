@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import altair as alt
 from datetime import date
+from datetime import datetime
 
 def get_chart(data):
     hover = alt.selection_single(
@@ -14,7 +15,7 @@ def get_chart(data):
     )
 
     lines = (
-        alt.Chart(data, title="Test")
+        alt.Chart(data, title="Langetermijnontwikkeling per maand")
         .mark_line()
         .encode(
             x="Datum",
@@ -66,10 +67,15 @@ number_month_dict = {1:'januari',
                                                       11: 'november',
                                                       12: 'december'}
 
+
 df_ts = pd.read_csv(os.path.join(os.getcwd(), "data", "ts_alarmwaarden.csv"),
                 delimiter=',')
 
 unieke_jaren = df_ts.groupby(pd.to_datetime(df_ts['Datum']).dt.year)['Datum'].max().values
+
+all_months = df_ts['Datum'].sort_values(axis = 0).unique()
+first_month = all_months[0]
+most_recent_month = all_months[-1]
 
 next_month_number = date.today().month
 current_year = date.today().year
@@ -144,10 +150,18 @@ if page == "Verleden":
 
 
             with st.expander("Benieuwd naar de langetermijnontwikkeling?"):
-
+                
+                
                 symbols = st.multiselect("Kies een categorie om te visualiseren", df_extremen_geselecteerd['Soort misdrijf'], df_extremen_geselecteerd['Soort misdrijf'])
+                
+                time_period = st.select_slider('Selecteer tijdsperiode',
+                               options=all_months,
+                               value = (first_month, most_recent_month))
 
-                source = df_ts[(df_ts['Soort misdrijf'].isin(symbols)) & (df_ts['Wijken en buurten'] == buurt)]
+                source = df_ts[(df_ts['Soort misdrijf'].isin(symbols)) &
+                               (df_ts['Wijken en buurten'] == buurt) &
+                               (df_ts['Datum'] >= time_period[0]) &
+                               (df_ts['Datum'] <= time_period[1])]
                 chart = get_chart(source)
                 st.altair_chart(chart.encode(alt.X('Datum:Q',
                       axis=alt.Axis(values = unieke_jaren, labelAngle=-45))), use_container_width=True)
