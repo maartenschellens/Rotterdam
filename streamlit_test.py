@@ -149,7 +149,7 @@ if page == "Verleden":
         if nrows > 0:
 
 
-            with st.expander("Benieuwd naar de langetermijnontwikkeling?"):
+            with st.expander("Benieuwd naar de langetermijngrafiek?"):
                 
                 
                 symbols = st.multiselect("Kies een categorie om te visualiseren", df_extremen_geselecteerd['Soort misdrijf'], df_extremen_geselecteerd['Soort misdrijf'])
