@@ -1,489 +1,488 @@
 ,Wijken en buurten,Soort misdrijf,Afwijking t.o.v. lineaire trend,groeifactor t.o.v. zelfde maand vorig jaar,Aantal deze maand dit jaar,Aantal deze maand vorig jaar
-0,Rotterdam (Gemeente),1.1.1 Diefstal/inbraak woning,extreem hoge groei,1.5396825396825398,97.0,63.0
-1,Rotterdam (Gemeente),1.1.2 Diefstal/inbraak box/garage/schuur,normale groei,0.625,45.0,72.0
-2,Rotterdam (Gemeente),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,2.073170731707317,425.0,205.0
-3,Rotterdam (Gemeente),1.2.2 Diefstal van motorvoertuigen,normale groei,1.3333333333333333,72.0,54.0
-4,Rotterdam (Gemeente),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.2730061349693251,415.0,326.0
-5,Rotterdam (Gemeente),1.2.4 Zakkenrollerij,extreem hoge groei,1.625,52.0,32.0
-6,Rotterdam (Gemeente),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,1.2253521126760563,87.0,71.0
-7,Rotterdam (Gemeente),1.4.3 Openlijk geweld (persoon),normale groei,1.2941176470588236,22.0,17.0
-8,Rotterdam (Gemeente),1.4.4 Bedreiging,normale groei,0.7745098039215687,158.0,204.0
-9,Rotterdam (Gemeente),1.4.5 Mishandeling,extreem hoge groei,1.3140096618357489,272.0,207.0
-10,Rotterdam (Gemeente),1.4.6 Straatroof,normale groei,0.9090909090909091,20.0,22.0
-11,Rotterdam (Gemeente),1.4.7 Overval,normale groei,1.75,7.0,4.0
-12,Rotterdam (Gemeente),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.1311475409836065,345.0,305.0
-13,Rotterdam (Gemeente),2.4.2 Huisvredebreuk,normale groei,1.6,16.0,10.0
-14,Rotterdam (Gemeente),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,1.3421052631578947,51.0,38.0
-15,Rotterdam (Gemeente),2.5.2 Winkeldiefstal,normale groei,1.577922077922078,243.0,154.0
-16,Rotterdam (Gemeente),3.1.1 Drugshandel,normale groei,0.7931034482758621,69.0,87.0
-17,Rotterdam (Gemeente),3.1.3 Wapenhandel,normale groei,1.6136363636363635,71.0,44.0
-18,Rotterdam (Gemeente),3.6.4 Aantasting openbare orde,normale groei,0.7906976744186046,34.0,43.0
-19,Rotterdam (Gemeente),3.7.4 Cybercrime,normale groei,0.5918367346938775,29.0,49.0
-20,Rotterdam (Gemeente),3.9.1 Horizontale fraude,extreem lage groei,0.562874251497006,376.0,668.0
-21,Rotterdam (Gemeente),3.9.3 Fraude (overig),normale groei,1.4,7.0,5.0
-22,Rotterdam (Gemeente),Geluidshinder overig,extreem lage groei,0.6825208085612366,574.0,841.0
-23,Rotterdam (Gemeente),Melding overlast jeugd,normale groei,0.8746268656716418,293.0,335.0
-24,Rotterdam (Gemeente),Overlast door verward persoon,normale groei,1.1452702702702702,678.0,592.0
-25,Rotterdam (Gemeente),Overlast ivm alcohol/ drugs,normale groei,1.1012658227848102,261.0,237.0
-26,Rotterdam (Gemeente),Overlast zwervers,normale groei,1.4306930693069306,289.0,202.0
-27,Rotterdam (Gemeente),Totaal misdrijven,extreem hoge groei,1.1288187372708758,4434.0,3928.0
-28,Rotterdam (Gemeente),Totaal registraties overlast,normale groei,0.9680525164113786,2212.0,2285.0
-29,Rotterdam Centrum (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,0.75,3.0,4.0
-30,Rotterdam Centrum (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.0434782608695654,47.0,23.0
-31,Rotterdam Centrum (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.6724137931034482,97.0,58.0
-32,Rotterdam Centrum (Gebied),1.2.4 Zakkenrollerij,normale groei,2.0,34.0,17.0
-33,Rotterdam Centrum (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,1.75,14.0,8.0
-34,Rotterdam Centrum (Gebied),1.4.4 Bedreiging,normale groei,0.7,14.0,20.0
-35,Rotterdam Centrum (Gebied),1.4.5 Mishandeling,extreem hoge groei,2.48,62.0,25.0
-36,Rotterdam Centrum (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,extreem hoge groei,2.5555555555555554,46.0,18.0
-37,Rotterdam Centrum (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,0.7142857142857143,10.0,14.0
-38,Rotterdam Centrum (Gebied),2.5.2 Winkeldiefstal,extreem hoge groei,3.6666666666666665,77.0,21.0
-39,Rotterdam Centrum (Gebied),3.1.1 Drugshandel,normale groei,0.7272727272727273,8.0,11.0
-40,Rotterdam Centrum (Gebied),3.1.3 Wapenhandel,normale groei,3.857142857142857,27.0,7.0
-41,Rotterdam Centrum (Gebied),3.6.4 Aantasting openbare orde,normale groei,1.1333333333333333,17.0,15.0
-42,Rotterdam Centrum (Gebied),3.9.1 Horizontale fraude,normale groei,0.7555555555555555,34.0,45.0
-43,Rotterdam Centrum (Gebied),Geluidshinder overig,normale groei,0.7692307692307693,50.0,65.0
-44,Rotterdam Centrum (Gebied),Melding overlast jeugd,normale groei,1.3333333333333333,24.0,18.0
-45,Rotterdam Centrum (Gebied),Overlast door verward persoon,normale groei,1.1176470588235294,76.0,68.0
-46,Rotterdam Centrum (Gebied),Overlast ivm alcohol/ drugs,normale groei,1.1891891891891893,44.0,37.0
-47,Rotterdam Centrum (Gebied),Overlast zwervers,normale groei,1.858974358974359,145.0,78.0
-48,Rotterdam Centrum (Gebied),Totaal misdrijven,extreem hoge groei,1.7381489841986455,770.0,443.0
-49,Rotterdam Centrum (Gebied),Totaal registraties overlast,normale groei,1.3566666666666667,407.0,300.0
-50,Delfshaven (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,1.1111111111111112,10.0,9.0
-51,Delfshaven (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.5416666666666667,37.0,24.0
-52,Delfshaven (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,1.375,11.0,8.0
-53,Delfshaven (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.9230769230769231,36.0,39.0
-54,Delfshaven (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,1.4,7.0,5.0
-55,Delfshaven (Gebied),1.4.4 Bedreiging,normale groei,0.8709677419354839,27.0,31.0
-56,Delfshaven (Gebied),1.4.5 Mishandeling,normale groei,0.9285714285714286,26.0,28.0
-57,Delfshaven (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0833333333333333,39.0,36.0
-58,Delfshaven (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,0.25,1.0,4.0
-59,Delfshaven (Gebied),2.5.2 Winkeldiefstal,extreem hoge groei,3.4,34.0,10.0
-60,Delfshaven (Gebied),3.1.1 Drugshandel,normale groei,1.3333333333333333,8.0,6.0
-61,Delfshaven (Gebied),3.1.3 Wapenhandel,normale groei,2.75,11.0,4.0
-62,Delfshaven (Gebied),3.9.1 Horizontale fraude,normale groei,0.4875,39.0,80.0
-63,Delfshaven (Gebied),Geluidshinder overig,normale groei,0.8613861386138614,87.0,101.0
-64,Delfshaven (Gebied),Melding overlast jeugd,normale groei,0.6341463414634146,26.0,41.0
-65,Delfshaven (Gebied),Overlast door verward persoon,normale groei,1.3285714285714285,93.0,70.0
-66,Delfshaven (Gebied),Overlast ivm alcohol/ drugs,normale groei,1.0,29.0,29.0
-67,Delfshaven (Gebied),Overlast zwervers,normale groei,0.896551724137931,26.0,29.0
-68,Delfshaven (Gebied),Totaal misdrijven,normale groei,1.0064935064935066,465.0,462.0
-69,Delfshaven (Gebied),Totaal registraties overlast,normale groei,0.9434628975265018,267.0,283.0
-70,Overschie (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,7.0,14.0,2.0
-71,Overschie (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.2222222222222223,11.0,9.0
-72,Overschie (Gebied),Geluidshinder overig,normale groei,1.75,14.0,8.0
-73,Overschie (Gebied),Overlast door verward persoon,normale groei,1.2666666666666666,19.0,15.0
-74,Overschie (Gebied),Totaal misdrijven,normale groei,1.1363636363636365,100.0,88.0
-75,Overschie (Gebied),Totaal registraties overlast,normale groei,1.2195121951219512,50.0,41.0
-76,Noord (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,1.6,8.0,5.0
-77,Noord (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,2.7222222222222223,49.0,18.0
-78,Noord (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.1025641025641026,43.0,39.0
-79,Noord (Gebied),1.4.4 Bedreiging,normale groei,1.7142857142857142,12.0,7.0
-80,Noord (Gebied),1.4.5 Mishandeling,normale groei,1.2222222222222223,11.0,9.0
-81,Noord (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.206896551724138,35.0,29.0
-82,Noord (Gebied),2.5.2 Winkeldiefstal,normale groei,2.8333333333333335,17.0,6.0
-83,Noord (Gebied),3.9.1 Horizontale fraude,normale groei,0.5675675675675675,21.0,37.0
-84,Noord (Gebied),Geluidshinder overig,normale groei,0.7466666666666667,56.0,75.0
-85,Noord (Gebied),Melding overlast jeugd,normale groei,1.8571428571428572,26.0,14.0
-86,Noord (Gebied),Overlast door verward persoon,normale groei,1.90625,61.0,32.0
-87,Noord (Gebied),Totaal misdrijven,extreem hoge groei,1.404669260700389,361.0,257.0
-88,Noord (Gebied),Totaal registraties overlast,normale groei,1.1875,228.0,192.0
-89,Hillegersberg-Schiebroek (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,1.1666666666666667,7.0,6.0
-90,Hillegersberg-Schiebroek (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.2222222222222223,20.0,9.0
-91,Hillegersberg-Schiebroek (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,1.5,3.0,2.0
-92,Hillegersberg-Schiebroek (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",extreem hoge groei,2.8461538461538463,37.0,13.0
-93,Hillegersberg-Schiebroek (Gebied),1.4.4 Bedreiging,normale groei,0.6923076923076923,9.0,13.0
-94,Hillegersberg-Schiebroek (Gebied),1.4.5 Mishandeling,normale groei,1.0,10.0,10.0
-95,Hillegersberg-Schiebroek (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.9375,15.0,16.0
-96,Hillegersberg-Schiebroek (Gebied),Geluidshinder overig,normale groei,1.6071428571428572,45.0,28.0
-97,Hillegersberg-Schiebroek (Gebied),Melding overlast jeugd,normale groei,1.2333333333333334,37.0,30.0
-98,Hillegersberg-Schiebroek (Gebied),Overlast door verward persoon,normale groei,2.076923076923077,54.0,26.0
-99,Hillegersberg-Schiebroek (Gebied),Totaal misdrijven,normale groei,1.1142857142857143,195.0,175.0
-100,Hillegersberg-Schiebroek (Gebied),Totaal registraties overlast,normale groei,1.7666666666666666,159.0,90.0
-101,Kralingen-Crooswijk (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,0.4,4.0,10.0
-102,Kralingen-Crooswijk (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,extreem lage groei,0.15384615384615385,2.0,13.0
-103,Kralingen-Crooswijk (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,3.35,67.0,20.0
-104,Kralingen-Crooswijk (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.6875,33.0,48.0
-105,Kralingen-Crooswijk (Gebied),1.4.4 Bedreiging,normale groei,0.9375,15.0,16.0
-106,Kralingen-Crooswijk (Gebied),1.4.5 Mishandeling,normale groei,1.0,15.0,15.0
-107,Kralingen-Crooswijk (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.9583333333333334,23.0,24.0
-108,Kralingen-Crooswijk (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,0.5,1.0,2.0
-109,Kralingen-Crooswijk (Gebied),2.5.2 Winkeldiefstal,normale groei,0.9285714285714286,13.0,14.0
-110,Kralingen-Crooswijk (Gebied),3.9.1 Horizontale fraude,normale groei,0.7380952380952381,31.0,42.0
-111,Kralingen-Crooswijk (Gebied),Geluidshinder overig,extreem lage groei,0.40268456375838924,60.0,149.0
-112,Kralingen-Crooswijk (Gebied),Melding overlast jeugd,normale groei,1.3076923076923077,34.0,26.0
-113,Kralingen-Crooswijk (Gebied),Overlast door verward persoon,normale groei,0.8518518518518519,46.0,54.0
-114,Kralingen-Crooswijk (Gebied),Totaal misdrijven,normale groei,1.0650887573964498,360.0,338.0
-115,Kralingen-Crooswijk (Gebied),Totaal registraties overlast,normale groei,0.7114624505928854,180.0,253.0
-116,Feijenoord (Gebied),1.1.1 Diefstal/inbraak woning,extreem hoge groei,2.375,19.0,8.0
-117,Feijenoord (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,normale groei,0.375,3.0,8.0
-118,Feijenoord (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,0.9047619047619048,19.0,21.0
-119,Feijenoord (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,0.6666666666666666,2.0,3.0
-120,Feijenoord (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.2,42.0,35.0
-121,Feijenoord (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,1.1111111111111112,10.0,9.0
-122,Feijenoord (Gebied),1.4.4 Bedreiging,extreem lage groei,0.47368421052631576,18.0,38.0
-123,Feijenoord (Gebied),1.4.5 Mishandeling,extreem hoge groei,2.4444444444444446,44.0,18.0
-124,Feijenoord (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.926829268292683,38.0,41.0
-125,Feijenoord (Gebied),2.5.2 Winkeldiefstal,normale groei,0.8823529411764706,15.0,17.0
-126,Feijenoord (Gebied),3.9.1 Horizontale fraude,normale groei,0.40425531914893614,38.0,94.0
-127,Feijenoord (Gebied),Geluidshinder overig,extreem lage groei,0.41904761904761906,44.0,105.0
-128,Feijenoord (Gebied),Melding overlast jeugd,normale groei,0.9743589743589743,38.0,39.0
-129,Feijenoord (Gebied),Overlast door verward persoon,normale groei,1.2048192771084338,100.0,83.0
-130,Feijenoord (Gebied),Overlast ivm alcohol/ drugs,normale groei,1.0909090909090908,36.0,33.0
-131,Feijenoord (Gebied),Totaal misdrijven,normale groei,1.0426008968609866,465.0,446.0
-132,Feijenoord (Gebied),Totaal registraties overlast,normale groei,0.855072463768116,236.0,276.0
-133,IJsselmonde (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,2.611111111111111,47.0,18.0
-134,IJsselmonde (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,0.7777777777777778,7.0,9.0
-135,IJsselmonde (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.1176470588235294,19.0,17.0
-136,IJsselmonde (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,1.5,6.0,4.0
-137,IJsselmonde (Gebied),1.4.4 Bedreiging,normale groei,1.0,17.0,17.0
-138,IJsselmonde (Gebied),1.4.5 Mishandeling,normale groei,1.1818181818181819,26.0,22.0
-139,IJsselmonde (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.1851851851851851,32.0,27.0
-140,IJsselmonde (Gebied),2.5.2 Winkeldiefstal,normale groei,1.875,15.0,8.0
-141,IJsselmonde (Gebied),3.9.1 Horizontale fraude,normale groei,0.8227848101265823,65.0,79.0
-142,IJsselmonde (Gebied),Geluidshinder overig,normale groei,0.6666666666666666,48.0,72.0
-143,IJsselmonde (Gebied),Melding overlast jeugd,normale groei,0.7674418604651163,33.0,43.0
-144,IJsselmonde (Gebied),Overlast door verward persoon,normale groei,0.627906976744186,27.0,43.0
-145,IJsselmonde (Gebied),Totaal misdrijven,normale groei,1.1364985163204748,383.0,337.0
-146,IJsselmonde (Gebied),Totaal registraties overlast,normale groei,0.7555555555555555,136.0,180.0
-147,Pernis (Gebied),Totaal misdrijven,extreem lage groei,0.38461538461538464,5.0,13.0
-148,Prins Alexander (Gebied),1.1.1 Diefstal/inbraak woning,extreem hoge groei,2.125,17.0,8.0
-149,Prins Alexander (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,extreem lage groei,0.18181818181818182,2.0,11.0
-150,Prins Alexander (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.0,44.0,22.0
-151,Prins Alexander (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,1.1538461538461537,15.0,13.0
-152,Prins Alexander (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.1,33.0,30.0
-153,Prins Alexander (Gebied),1.4.4 Bedreiging,normale groei,1.6363636363636365,18.0,11.0
-154,Prins Alexander (Gebied),1.4.5 Mishandeling,normale groei,0.9444444444444444,17.0,18.0
-155,Prins Alexander (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.8571428571428571,30.0,35.0
-156,Prins Alexander (Gebied),2.5.2 Winkeldiefstal,normale groei,0.5,18.0,36.0
-157,Prins Alexander (Gebied),Geluidshinder overig,normale groei,1.03125,66.0,64.0
-158,Prins Alexander (Gebied),Melding overlast jeugd,normale groei,0.6341463414634146,26.0,41.0
-159,Prins Alexander (Gebied),Overlast door verward persoon,normale groei,1.0606060606060606,70.0,66.0
-160,Prins Alexander (Gebied),Totaal misdrijven,normale groei,0.8952164009111617,393.0,439.0
-161,Prins Alexander (Gebied),Totaal registraties overlast,normale groei,0.9583333333333334,184.0,192.0
-162,Charlois (Gebied),1.1.1 Diefstal/inbraak woning,extreem hoge groei,7.0,7.0,1.0
-163,Charlois (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,normale groei,0.8,4.0,5.0
-164,Charlois (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.6785714285714286,47.0,28.0
-165,Charlois (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,0.6666666666666666,4.0,6.0
-166,Charlois (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.962962962962963,53.0,27.0
-167,Charlois (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,0.7857142857142857,11.0,14.0
-168,Charlois (Gebied),1.4.4 Bedreiging,extreem lage groei,0.35714285714285715,10.0,28.0
-169,Charlois (Gebied),1.4.5 Mishandeling,normale groei,0.7906976744186046,34.0,43.0
+0,Rotterdam (Gemeente),1.1.1 Diefstal/inbraak woning,normale groei,0.975,78.0,80.0
+1,Rotterdam (Gemeente),1.1.2 Diefstal/inbraak box/garage/schuur,extreem lage groei,0.5135135135135135,38.0,74.0
+2,Rotterdam (Gemeente),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,2.3395061728395063,379.0,162.0
+3,Rotterdam (Gemeente),1.2.2 Diefstal van motorvoertuigen,normale groei,1.3333333333333333,56.0,42.0
+4,Rotterdam (Gemeente),"1.2.3 Diefstal van brom-, snor-, fietsen",extreem hoge groei,1.50920245398773,492.0,326.0
+5,Rotterdam (Gemeente),1.2.4 Zakkenrollerij,extreem hoge groei,2.3043478260869565,53.0,23.0
+6,Rotterdam (Gemeente),1.2.5 Diefstal af/uit/van ov. voertuigen,extreem hoge groei,2.017857142857143,113.0,56.0
+7,Rotterdam (Gemeente),1.4.3 Openlijk geweld (persoon),extreem hoge groei,2.0,32.0,16.0
+8,Rotterdam (Gemeente),1.4.4 Bedreiging,normale groei,0.8232044198895028,149.0,181.0
+9,Rotterdam (Gemeente),1.4.5 Mishandeling,normale groei,1.1414634146341462,234.0,205.0
+10,Rotterdam (Gemeente),1.4.6 Straatroof,normale groei,0.75,15.0,20.0
+11,Rotterdam (Gemeente),1.4.7 Overval,normale groei,0.7777777777777778,7.0,9.0
+12,Rotterdam (Gemeente),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.1623616236162362,315.0,271.0
+13,Rotterdam (Gemeente),2.4.2 Huisvredebreuk,normale groei,0.2777777777777778,5.0,18.0
+14,Rotterdam (Gemeente),2.5.1 Diefstal/inbraak bedrijven enz.,extreem hoge groei,1.8888888888888888,51.0,27.0
+15,Rotterdam (Gemeente),2.5.2 Winkeldiefstal,normale groei,1.4189189189189189,210.0,148.0
+16,Rotterdam (Gemeente),3.1.1 Drugshandel,normale groei,0.8695652173913043,60.0,69.0
+17,Rotterdam (Gemeente),3.1.3 Wapenhandel,normale groei,1.1384615384615384,74.0,65.0
+18,Rotterdam (Gemeente),3.6.4 Aantasting openbare orde,normale groei,1.054054054054054,39.0,37.0
+19,Rotterdam (Gemeente),3.7.4 Cybercrime,normale groei,0.6585365853658537,27.0,41.0
+20,Rotterdam (Gemeente),3.9.1 Horizontale fraude,normale groei,0.7633410672853829,329.0,431.0
+21,Rotterdam (Gemeente),3.9.3 Fraude (overig),extreem lage groei,0.08333333333333333,1.0,12.0
+22,Rotterdam (Gemeente),Geluidshinder overig,extreem lage groei,0.5238623751387348,472.0,901.0
+23,Rotterdam (Gemeente),Melding overlast jeugd,normale groei,0.6014492753623188,249.0,414.0
+24,Rotterdam (Gemeente),Overlast door verward persoon,normale groei,1.0456140350877192,596.0,570.0
+25,Rotterdam (Gemeente),Overlast ivm alcohol/ drugs,normale groei,1.1983122362869199,284.0,237.0
+26,Rotterdam (Gemeente),Overlast zwervers,normale groei,1.3036649214659686,249.0,191.0
+27,Rotterdam (Gemeente),Totaal misdrijven,extreem hoge groei,1.2591187627662679,4315.0,3427.0
+28,Rotterdam (Gemeente),Totaal registraties overlast,extreem lage groei,0.8264150943396227,1971.0,2385.0
+29,Rotterdam Centrum (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,0.3,3.0,10.0
+30,Rotterdam Centrum (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,3.176470588235294,54.0,17.0
+31,Rotterdam Centrum (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",extreem hoge groei,2.5531914893617023,120.0,47.0
+32,Rotterdam Centrum (Gebied),1.2.4 Zakkenrollerij,normale groei,2.7777777777777777,25.0,9.0
+33,Rotterdam Centrum (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,extreem hoge groei,4.0,28.0,7.0
+34,Rotterdam Centrum (Gebied),1.4.4 Bedreiging,normale groei,1.105263157894737,21.0,19.0
+35,Rotterdam Centrum (Gebied),1.4.5 Mishandeling,extreem hoge groei,2.5555555555555554,46.0,18.0
+36,Rotterdam Centrum (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,extreem hoge groei,2.25,45.0,20.0
+37,Rotterdam Centrum (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,1.375,11.0,8.0
+38,Rotterdam Centrum (Gebied),2.5.2 Winkeldiefstal,extreem hoge groei,2.608695652173913,60.0,23.0
+39,Rotterdam Centrum (Gebied),3.1.1 Drugshandel,normale groei,2.5,10.0,4.0
+40,Rotterdam Centrum (Gebied),3.1.3 Wapenhandel,normale groei,1.0,17.0,17.0
+41,Rotterdam Centrum (Gebied),3.6.4 Aantasting openbare orde,normale groei,1.0,13.0,13.0
+42,Rotterdam Centrum (Gebied),3.9.1 Horizontale fraude,normale groei,0.9666666666666667,29.0,30.0
+43,Rotterdam Centrum (Gebied),Geluidshinder overig,extreem lage groei,0.10126582278481013,8.0,79.0
+44,Rotterdam Centrum (Gebied),Melding overlast jeugd,normale groei,0.6153846153846154,16.0,26.0
+45,Rotterdam Centrum (Gebied),Overlast door verward persoon,normale groei,0.9411764705882353,48.0,51.0
+46,Rotterdam Centrum (Gebied),Overlast ivm alcohol/ drugs,normale groei,1.2666666666666666,38.0,30.0
+47,Rotterdam Centrum (Gebied),Overlast zwervers,normale groei,1.472972972972973,109.0,74.0
+48,Rotterdam Centrum (Gebied),Totaal misdrijven,extreem hoge groei,2.1078167115902966,782.0,371.0
+49,Rotterdam Centrum (Gebied),Totaal registraties overlast,normale groei,0.9824561403508771,280.0,285.0
+50,Delfshaven (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,0.5454545454545454,6.0,11.0
+51,Delfshaven (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,4.7,47.0,10.0
+52,Delfshaven (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,1.8571428571428572,13.0,7.0
+53,Delfshaven (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.4285714285714286,40.0,28.0
+54,Delfshaven (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,2.5,10.0,4.0
+55,Delfshaven (Gebied),1.4.4 Bedreiging,normale groei,1.125,27.0,24.0
+56,Delfshaven (Gebied),1.4.5 Mishandeling,normale groei,0.8478260869565217,39.0,46.0
+57,Delfshaven (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.725,29.0,40.0
+58,Delfshaven (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,extreem hoge groei,8.0,8.0,1.0
+59,Delfshaven (Gebied),2.5.2 Winkeldiefstal,normale groei,1.45,29.0,20.0
+60,Delfshaven (Gebied),3.1.1 Drugshandel,normale groei,0.75,3.0,4.0
+61,Delfshaven (Gebied),3.1.3 Wapenhandel,normale groei,1.5714285714285714,11.0,7.0
+62,Delfshaven (Gebied),3.9.1 Horizontale fraude,normale groei,1.2045454545454546,53.0,44.0
+63,Delfshaven (Gebied),Geluidshinder overig,extreem lage groei,0.3984375,51.0,128.0
+64,Delfshaven (Gebied),Melding overlast jeugd,normale groei,0.5,33.0,66.0
+65,Delfshaven (Gebied),Overlast door verward persoon,normale groei,1.2238805970149254,82.0,67.0
+66,Delfshaven (Gebied),Overlast ivm alcohol/ drugs,normale groei,0.9166666666666666,22.0,24.0
+67,Delfshaven (Gebied),Overlast zwervers,normale groei,0.9393939393939394,31.0,33.0
+68,Delfshaven (Gebied),Totaal misdrijven,extreem hoge groei,1.272264631043257,500.0,393.0
+69,Delfshaven (Gebied),Totaal registraties overlast,extreem lage groei,0.6996996996996997,233.0,333.0
+70,Overschie (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.4285714285714286,10.0,7.0
+71,Overschie (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0,6.0,6.0
+72,Overschie (Gebied),Geluidshinder overig,normale groei,1.2307692307692308,16.0,13.0
+73,Overschie (Gebied),Overlast door verward persoon,normale groei,1.0833333333333333,13.0,12.0
+74,Overschie (Gebied),Totaal misdrijven,extreem hoge groei,1.537313432835821,103.0,67.0
+75,Overschie (Gebied),Totaal registraties overlast,normale groei,1.0454545454545454,46.0,44.0
+76,Noord (Gebied),1.1.1 Diefstal/inbraak woning,extreem hoge groei,2.75,11.0,4.0
+77,Noord (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,3.1,31.0,10.0
+78,Noord (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.1666666666666667,56.0,48.0
+79,Noord (Gebied),1.4.4 Bedreiging,normale groei,0.6923076923076923,9.0,13.0
+80,Noord (Gebied),1.4.5 Mishandeling,normale groei,0.8333333333333334,10.0,12.0
+81,Noord (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.3333333333333333,24.0,18.0
+82,Noord (Gebied),2.5.2 Winkeldiefstal,normale groei,1.8,18.0,10.0
+83,Noord (Gebied),3.9.1 Horizontale fraude,normale groei,0.42857142857142855,15.0,35.0
+84,Noord (Gebied),Geluidshinder overig,normale groei,0.7441860465116279,64.0,86.0
+85,Noord (Gebied),Melding overlast jeugd,normale groei,0.8333333333333334,15.0,18.0
+86,Noord (Gebied),Overlast door verward persoon,normale groei,1.170731707317073,48.0,41.0
+87,Noord (Gebied),Totaal misdrijven,normale groei,1.1449814126394051,308.0,269.0
+88,Noord (Gebied),Totaal registraties overlast,normale groei,1.0603015075376885,211.0,199.0
+89,Hillegersberg-Schiebroek (Gebied),1.1.1 Diefstal/inbraak woning,extreem hoge groei,2.5,10.0,4.0
+90,Hillegersberg-Schiebroek (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.0909090909090908,12.0,11.0
+91,Hillegersberg-Schiebroek (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,2.3333333333333335,7.0,3.0
+92,Hillegersberg-Schiebroek (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.8148148148148148,22.0,27.0
+93,Hillegersberg-Schiebroek (Gebied),1.4.4 Bedreiging,normale groei,0.25,3.0,12.0
+94,Hillegersberg-Schiebroek (Gebied),1.4.5 Mishandeling,normale groei,1.2857142857142858,9.0,7.0
+95,Hillegersberg-Schiebroek (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.7368421052631579,14.0,19.0
+96,Hillegersberg-Schiebroek (Gebied),Geluidshinder overig,normale groei,1.0212765957446808,48.0,47.0
+97,Hillegersberg-Schiebroek (Gebied),Melding overlast jeugd,normale groei,0.9393939393939394,31.0,33.0
+98,Hillegersberg-Schiebroek (Gebied),Overlast door verward persoon,normale groei,1.3157894736842106,50.0,38.0
+99,Hillegersberg-Schiebroek (Gebied),Totaal misdrijven,normale groei,0.956989247311828,178.0,186.0
+100,Hillegersberg-Schiebroek (Gebied),Totaal registraties overlast,normale groei,1.0955882352941178,149.0,136.0
+101,Kralingen-Crooswijk (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,0.9230769230769231,12.0,13.0
+102,Kralingen-Crooswijk (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,normale groei,0.25,2.0,8.0
+103,Kralingen-Crooswijk (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.176470588235294,37.0,17.0
+104,Kralingen-Crooswijk (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.1428571428571428,48.0,42.0
+105,Kralingen-Crooswijk (Gebied),1.4.4 Bedreiging,extreem lage groei,0.3,3.0,10.0
+106,Kralingen-Crooswijk (Gebied),1.4.5 Mishandeling,normale groei,1.125,9.0,8.0
+107,Kralingen-Crooswijk (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.5,30.0,20.0
+108,Kralingen-Crooswijk (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,3.0,6.0,2.0
+109,Kralingen-Crooswijk (Gebied),2.5.2 Winkeldiefstal,normale groei,0.85,17.0,20.0
+110,Kralingen-Crooswijk (Gebied),3.9.1 Horizontale fraude,normale groei,0.4375,14.0,32.0
+111,Kralingen-Crooswijk (Gebied),Geluidshinder overig,normale groei,0.675,81.0,120.0
+112,Kralingen-Crooswijk (Gebied),Melding overlast jeugd,normale groei,0.8333333333333334,25.0,30.0
+113,Kralingen-Crooswijk (Gebied),Overlast door verward persoon,normale groei,0.9387755102040817,46.0,49.0
+114,Kralingen-Crooswijk (Gebied),Totaal misdrijven,normale groei,1.1484098939929328,325.0,283.0
+115,Kralingen-Crooswijk (Gebied),Totaal registraties overlast,normale groei,0.8447488584474886,185.0,219.0
+116,Feijenoord (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,0.7142857142857143,10.0,14.0
+117,Feijenoord (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,normale groei,1.2,6.0,5.0
+118,Feijenoord (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,0.8709677419354839,27.0,31.0
+119,Feijenoord (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,0.42857142857142855,3.0,7.0
+120,Feijenoord (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,2.1176470588235294,72.0,34.0
+121,Feijenoord (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,0.6666666666666666,8.0,12.0
+122,Feijenoord (Gebied),1.4.4 Bedreiging,normale groei,0.6333333333333333,19.0,30.0
+123,Feijenoord (Gebied),1.4.5 Mishandeling,normale groei,0.9285714285714286,26.0,28.0
+124,Feijenoord (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.206896551724138,35.0,29.0
+125,Feijenoord (Gebied),2.5.2 Winkeldiefstal,normale groei,0.7333333333333333,11.0,15.0
+126,Feijenoord (Gebied),3.9.1 Horizontale fraude,normale groei,0.5625,36.0,64.0
+127,Feijenoord (Gebied),Geluidshinder overig,extreem lage groei,0.3375,27.0,80.0
+128,Feijenoord (Gebied),Melding overlast jeugd,normale groei,0.5510204081632653,27.0,49.0
+129,Feijenoord (Gebied),Overlast door verward persoon,normale groei,0.8082191780821918,59.0,73.0
+130,Feijenoord (Gebied),Overlast ivm alcohol/ drugs,normale groei,1.7333333333333334,52.0,30.0
+131,Feijenoord (Gebied),Totaal misdrijven,normale groei,1.085308056872038,458.0,422.0
+132,Feijenoord (Gebied),Totaal registraties overlast,normale groei,0.7590361445783133,189.0,249.0
+133,IJsselmonde (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.380952380952381,29.0,21.0
+134,IJsselmonde (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,2.3333333333333335,7.0,3.0
+135,IJsselmonde (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.8125,13.0,16.0
+136,IJsselmonde (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,extreem hoge groei,6.0,6.0,1.0
+137,IJsselmonde (Gebied),1.4.4 Bedreiging,normale groei,2.076923076923077,27.0,13.0
+138,IJsselmonde (Gebied),1.4.5 Mishandeling,normale groei,0.9310344827586207,27.0,29.0
+139,IJsselmonde (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.9629629629629629,26.0,27.0
+140,IJsselmonde (Gebied),2.5.2 Winkeldiefstal,normale groei,0.8666666666666667,13.0,15.0
+141,IJsselmonde (Gebied),3.9.1 Horizontale fraude,normale groei,1.736842105263158,66.0,38.0
+142,IJsselmonde (Gebied),Geluidshinder overig,normale groei,0.7714285714285715,54.0,70.0
+143,IJsselmonde (Gebied),Melding overlast jeugd,normale groei,0.6363636363636364,28.0,44.0
+144,IJsselmonde (Gebied),Overlast door verward persoon,normale groei,0.8048780487804879,33.0,41.0
+145,IJsselmonde (Gebied),Totaal misdrijven,extreem hoge groei,1.2909698996655519,386.0,299.0
+146,IJsselmonde (Gebied),Totaal registraties overlast,normale groei,0.9213483146067416,164.0,178.0
+147,Pernis (Gebied),Totaal misdrijven,normale groei,1.1111111111111112,10.0,9.0
+148,Prins Alexander (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,0.8571428571428571,6.0,7.0
+149,Prins Alexander (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,extreem lage groei,0.17647058823529413,3.0,17.0
+150,Prins Alexander (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.0,34.0,17.0
+151,Prins Alexander (Gebied),1.2.2 Diefstal van motorvoertuigen,extreem lage groei,0.3333333333333333,3.0,9.0
+152,Prins Alexander (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.3461538461538463,35.0,26.0
+153,Prins Alexander (Gebied),1.4.4 Bedreiging,normale groei,0.5625,9.0,16.0
+154,Prins Alexander (Gebied),1.4.5 Mishandeling,extreem hoge groei,2.5714285714285716,18.0,7.0
+155,Prins Alexander (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.5555555555555556,15.0,27.0
+156,Prins Alexander (Gebied),2.5.2 Winkeldiefstal,normale groei,1.1666666666666667,21.0,18.0
+157,Prins Alexander (Gebied),Geluidshinder overig,extreem lage groei,0.6164383561643836,45.0,73.0
+158,Prins Alexander (Gebied),Melding overlast jeugd,normale groei,0.5454545454545454,24.0,44.0
+159,Prins Alexander (Gebied),Overlast door verward persoon,normale groei,1.0,80.0,80.0
+160,Prins Alexander (Gebied),Totaal misdrijven,normale groei,0.9008264462809917,327.0,363.0
+161,Prins Alexander (Gebied),Totaal registraties overlast,extreem lage groei,0.7094017094017094,166.0,234.0
+162,Charlois (Gebied),1.1.1 Diefstal/inbraak woning,normale groei,1.2,6.0,5.0
+163,Charlois (Gebied),1.1.2 Diefstal/inbraak box/garage/schuur,normale groei,0.38095238095238093,8.0,21.0
+164,Charlois (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,5.166666666666667,62.0,12.0
+165,Charlois (Gebied),1.2.2 Diefstal van motorvoertuigen,normale groei,1.75,7.0,4.0
+166,Charlois (Gebied),"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.475,59.0,40.0
+167,Charlois (Gebied),1.2.5 Diefstal af/uit/van ov. voertuigen,normale groei,3.75,15.0,4.0
+168,Charlois (Gebied),1.4.4 Bedreiging,normale groei,0.6363636363636364,14.0,22.0
+169,Charlois (Gebied),1.4.5 Mishandeling,normale groei,0.8529411764705882,29.0,34.0
 170,Charlois (Gebied),1.4.6 Straatroof,normale groei,0.6666666666666666,2.0,3.0
-171,Charlois (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.9142857142857143,32.0,35.0
-172,Charlois (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,1.5,3.0,2.0
-173,Charlois (Gebied),2.5.2 Winkeldiefstal,normale groei,1.619047619047619,34.0,21.0
-174,Charlois (Gebied),3.1.1 Drugshandel,normale groei,0.6521739130434783,15.0,23.0
-175,Charlois (Gebied),3.1.3 Wapenhandel,normale groei,0.3333333333333333,5.0,15.0
-176,Charlois (Gebied),3.9.1 Horizontale fraude,normale groei,0.35526315789473684,27.0,76.0
-177,Charlois (Gebied),Geluidshinder overig,normale groei,0.514018691588785,55.0,107.0
-178,Charlois (Gebied),Melding overlast jeugd,normale groei,0.525,21.0,40.0
-179,Charlois (Gebied),Overlast door verward persoon,normale groei,1.0229885057471264,89.0,87.0
-180,Charlois (Gebied),Overlast zwervers,normale groei,0.7727272727272727,17.0,22.0
-181,Charlois (Gebied),Totaal misdrijven,normale groei,0.9322033898305084,495.0,531.0
-182,Charlois (Gebied),Totaal registraties overlast,normale groei,0.745928338762215,229.0,307.0
-183,Hoogvliet (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.1428571428571428,8.0,7.0
-184,Hoogvliet (Gebied),1.4.4 Bedreiging,normale groei,1.2857142857142858,9.0,7.0
-185,Hoogvliet (Gebied),1.4.5 Mishandeling,normale groei,2.25,9.0,4.0
-186,Hoogvliet (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.3333333333333333,16.0,12.0
-187,Hoogvliet (Gebied),Geluidshinder overig,normale groei,0.7,28.0,40.0
-188,Hoogvliet (Gebied),Melding overlast jeugd,normale groei,1.0714285714285714,15.0,14.0
-189,Hoogvliet (Gebied),Overlast door verward persoon,normale groei,0.6875,22.0,32.0
-190,Hoogvliet (Gebied),Totaal misdrijven,normale groei,0.8897058823529411,121.0,136.0
-191,Hoogvliet (Gebied),Totaal registraties overlast,normale groei,0.723404255319149,68.0,94.0
-192,Hoek van Holland (Gebied),Totaal misdrijven,normale groei,0.8035714285714286,45.0,56.0
-193,Hoek van Holland (Gebied),Totaal registraties overlast,normale groei,0.7931034482758621,23.0,29.0
-194,Spaanse Polder (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,9.5,19.0,2.0
-195,Spaanse Polder (Gebied),Totaal misdrijven,normale groei,1.74,87.0,50.0
-196,Nieuw Mathenesse (Gebied),Totaal misdrijven,normale groei,1.3529411764705883,23.0,17.0
-197,Waalhaven-Eemhaven (Gebied),Totaal misdrijven,normale groei,1.8333333333333333,55.0,30.0
-198,Botlek-Europoort-Maasvlakte (Gebied),Totaal misdrijven,normale groei,0.98,49.0,50.0
-199,Rotterdam-Noord-West (Gebied),Totaal misdrijven,normale groei,0.8181818181818182,9.0,11.0
-200,Rozenburg (Gebied),Geluidshinder overig,normale groei,1.2222222222222223,11.0,9.0
-201,Rozenburg (Gebied),Melding overlast jeugd,normale groei,0.5,2.0,4.0
-202,Rozenburg (Gebied),Totaal misdrijven,normale groei,1.1219512195121952,46.0,41.0
-203,Rozenburg (Gebied),Totaal registraties overlast,normale groei,1.588235294117647,27.0,17.0
-204,Stadsdriehoek,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,5.0,10.0,2.0
-205,Stadsdriehoek,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.9545454545454546,43.0,22.0
-206,Stadsdriehoek,1.2.4 Zakkenrollerij,normale groei,0.9090909090909091,10.0,11.0
-207,Stadsdriehoek,1.4.4 Bedreiging,normale groei,0.9090909090909091,10.0,11.0
-208,Stadsdriehoek,1.4.5 Mishandeling,normale groei,2.0,16.0,8.0
-209,Stadsdriehoek,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,2.5,15.0,6.0
-210,Stadsdriehoek,2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,0.5,2.0,4.0
-211,Stadsdriehoek,2.5.2 Winkeldiefstal,extreem hoge groei,5.2,26.0,5.0
-212,Stadsdriehoek,Geluidshinder overig,normale groei,0.6666666666666666,30.0,45.0
-213,Stadsdriehoek,Overlast door verward persoon,normale groei,0.9142857142857143,32.0,35.0
-214,Stadsdriehoek,Overlast ivm alcohol/ drugs,normale groei,1.0,10.0,10.0
-215,Stadsdriehoek,Overlast zwervers,normale groei,1.8,36.0,20.0
-216,Stadsdriehoek,Totaal misdrijven,normale groei,1.430232558139535,246.0,172.0
-217,Stadsdriehoek,Totaal registraties overlast,normale groei,1.0076923076923077,131.0,130.0
-218,Oude Westen,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.4,7.0,5.0
-219,Oude Westen,"1.2.3 Diefstal van brom-, snor-, fietsen",extreem hoge groei,4.5,9.0,2.0
-220,Oude Westen,1.4.5 Mishandeling,normale groei,2.0,8.0,4.0
-221,Oude Westen,Overlast door verward persoon,normale groei,0.9166666666666666,11.0,12.0
-222,Oude Westen,Overlast ivm alcohol/ drugs,normale groei,1.25,15.0,12.0
-223,Oude Westen,Totaal misdrijven,normale groei,1.403225806451613,87.0,62.0
-224,Oude Westen,Totaal registraties overlast,normale groei,1.1403508771929824,65.0,57.0
-225,Cool,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.3636363636363635,15.0,11.0
-226,Cool,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,2.090909090909091,23.0,11.0
-227,Cool,1.2.4 Zakkenrollerij,extreem hoge groei,16.0,16.0,1.0
-228,Cool,1.4.5 Mishandeling,extreem hoge groei,6.2,31.0,5.0
-229,Cool,2.2.1 Vernieling cq. zaakbeschadiging,extreem hoge groei,2.5714285714285716,18.0,7.0
-230,Cool,2.5.2 Winkeldiefstal,extreem hoge groei,5.111111111111111,46.0,9.0
-231,Cool,Overlast ivm alcohol/ drugs,normale groei,1.2,12.0,10.0
-232,Cool,Totaal misdrijven,extreem hoge groei,2.8137254901960786,287.0,102.0
-233,Cool,Totaal registraties overlast,normale groei,2.125,136.0,64.0
-234,Cs Kwartier,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.8888888888888888,16.0,18.0
-235,Cs Kwartier,Totaal misdrijven,normale groei,1.515625,97.0,64.0
-236,Cs Kwartier,Totaal registraties overlast,normale groei,2.04,51.0,25.0
-237,Nieuwe Werk,Totaal misdrijven,normale groei,2.1818181818181817,24.0,11.0
-238,Dijkzigt,Totaal misdrijven,normale groei,0.90625,29.0,32.0
-239,Delfshaven,Geluidshinder overig,normale groei,0.35714285714285715,5.0,14.0
-240,Delfshaven,Totaal misdrijven,normale groei,1.0731707317073171,44.0,41.0
-241,Delfshaven,Totaal registraties overlast,normale groei,0.6222222222222222,28.0,45.0
-242,Bospolder,Totaal misdrijven,extreem hoge groei,1.6538461538461537,43.0,26.0
-243,Bospolder,Totaal registraties overlast,normale groei,1.0526315789473684,20.0,19.0
-244,Tussendijken,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.25,5.0,4.0
-245,Tussendijken,Totaal misdrijven,normale groei,0.8235294117647058,42.0,51.0
-246,Tussendijken,Totaal registraties overlast,normale groei,0.9310344827586207,27.0,29.0
-247,Spangen,Totaal misdrijven,normale groei,0.9538461538461539,62.0,65.0
-248,Spangen,Totaal registraties overlast,normale groei,1.0975609756097562,45.0,41.0
-249,Nieuwe Westen,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.7777777777777777,16.0,9.0
-250,Nieuwe Westen,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.2,12.0,10.0
-251,Nieuwe Westen,1.4.4 Bedreiging,normale groei,0.75,6.0,8.0
-252,Nieuwe Westen,1.4.5 Mishandeling,normale groei,0.8,4.0,5.0
-253,Nieuwe Westen,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.2857142857142858,9.0,7.0
-254,Nieuwe Westen,Geluidshinder overig,normale groei,0.8846153846153846,23.0,26.0
-255,Nieuwe Westen,Overlast door verward persoon,normale groei,1.375,11.0,8.0
-256,Nieuwe Westen,Totaal misdrijven,normale groei,0.856,107.0,125.0
-257,Nieuwe Westen,Totaal registraties overlast,normale groei,0.7066666666666667,53.0,75.0
-258,Middelland,"1.2.3 Diefstal van brom-, snor-, fietsen",extreem lage groei,0.25,3.0,12.0
-259,Middelland,1.4.5 Mishandeling,normale groei,0.3333333333333333,2.0,6.0
-260,Middelland,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,2.5,10.0,4.0
-261,Middelland,Geluidshinder overig,normale groei,0.5714285714285714,8.0,14.0
-262,Middelland,Totaal misdrijven,normale groei,1.1,88.0,80.0
-263,Middelland,Totaal registraties overlast,normale groei,1.5172413793103448,44.0,29.0
-264,Oud Mathenesse,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.5,1.0,2.0
-265,Oud Mathenesse,Geluidshinder overig,normale groei,1.125,18.0,16.0
-266,Oud Mathenesse,Totaal misdrijven,normale groei,0.8478260869565217,39.0,46.0
-267,Oud Mathenesse,Totaal registraties overlast,normale groei,1.1333333333333333,34.0,30.0
-268,Schiemond,Totaal misdrijven,normale groei,1.5384615384615385,40.0,26.0
-269,Schiemond,Totaal registraties overlast,normale groei,1.0666666666666667,16.0,15.0
-270,Kleinpolder,Totaal misdrijven,normale groei,0.9534883720930233,41.0,43.0
-271,Kleinpolder,Totaal registraties overlast,normale groei,0.9,18.0,20.0
-272,Zestienhoven,Totaal misdrijven,normale groei,1.0833333333333333,13.0,12.0
-273,Overschie,Totaal misdrijven,normale groei,1.5925925925925926,43.0,27.0
-274,Overschie,Totaal registraties overlast,normale groei,2.1538461538461537,28.0,13.0
+171,Charlois (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.2325581395348837,53.0,43.0
+172,Charlois (Gebied),2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,0.3333333333333333,1.0,3.0
+173,Charlois (Gebied),2.5.2 Winkeldiefstal,normale groei,1.2608695652173914,29.0,23.0
+174,Charlois (Gebied),3.1.1 Drugshandel,normale groei,1.3333333333333333,20.0,15.0
+175,Charlois (Gebied),3.1.3 Wapenhandel,normale groei,0.8333333333333334,10.0,12.0
+176,Charlois (Gebied),3.9.1 Horizontale fraude,normale groei,0.42,21.0,50.0
+177,Charlois (Gebied),Geluidshinder overig,extreem lage groei,0.40869565217391307,47.0,115.0
+178,Charlois (Gebied),Melding overlast jeugd,extreem lage groei,0.4423076923076923,23.0,52.0
+179,Charlois (Gebied),Overlast door verward persoon,normale groei,1.208955223880597,81.0,67.0
+180,Charlois (Gebied),Overlast zwervers,normale groei,1.0769230769230769,28.0,26.0
+181,Charlois (Gebied),Totaal misdrijven,normale groei,1.1477516059957173,536.0,467.0
+182,Charlois (Gebied),Totaal registraties overlast,normale groei,0.7491749174917491,227.0,303.0
+183,Hoogvliet (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.0,3.0,3.0
+184,Hoogvliet (Gebied),1.4.4 Bedreiging,normale groei,0.46153846153846156,6.0,13.0
+185,Hoogvliet (Gebied),1.4.5 Mishandeling,normale groei,0.75,6.0,8.0
+186,Hoogvliet (Gebied),2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.9,19.0,10.0
+187,Hoogvliet (Gebied),Geluidshinder overig,extreem lage groei,0.3076923076923077,16.0,52.0
+188,Hoogvliet (Gebied),Melding overlast jeugd,normale groei,0.5294117647058824,9.0,17.0
+189,Hoogvliet (Gebied),Overlast door verward persoon,normale groei,1.5862068965517242,46.0,29.0
+190,Hoogvliet (Gebied),Totaal misdrijven,normale groei,1.1081081081081081,123.0,111.0
+191,Hoogvliet (Gebied),Totaal registraties overlast,normale groei,0.7,77.0,110.0
+192,Hoek van Holland (Gebied),Totaal misdrijven,normale groei,0.88,22.0,25.0
+193,Hoek van Holland (Gebied),Totaal registraties overlast,normale groei,0.4642857142857143,13.0,28.0
+194,Spaanse Polder (Gebied),1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,3.25,13.0,4.0
+195,Spaanse Polder (Gebied),Totaal misdrijven,extreem hoge groei,2.8,70.0,25.0
+196,Nieuw Mathenesse (Gebied),Totaal misdrijven,extreem hoge groei,4.636363636363637,51.0,11.0
+197,Waalhaven-Eemhaven (Gebied),Totaal misdrijven,normale groei,1.16,29.0,25.0
+198,Botlek-Europoort-Maasvlakte (Gebied),Totaal misdrijven,normale groei,1.0208333333333333,49.0,48.0
+199,Rotterdam-Noord-West (Gebied),Totaal misdrijven,normale groei,2.142857142857143,15.0,7.0
+200,Rozenburg (Gebied),Geluidshinder overig,normale groei,0.29411764705882354,5.0,17.0
+201,Rozenburg (Gebied),Melding overlast jeugd,normale groei,0.3125,5.0,16.0
+202,Rozenburg (Gebied),Totaal misdrijven,normale groei,0.875,35.0,40.0
+203,Rozenburg (Gebied),Totaal registraties overlast,extreem lage groei,0.2894736842105263,11.0,38.0
+204,Stadsdriehoek,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,3.4,17.0,5.0
+205,Stadsdriehoek,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.9090909090909092,42.0,22.0
+206,Stadsdriehoek,1.2.4 Zakkenrollerij,extreem hoge groei,6.0,6.0,1.0
+207,Stadsdriehoek,1.4.4 Bedreiging,normale groei,0.625,5.0,8.0
+208,Stadsdriehoek,1.4.5 Mishandeling,normale groei,2.5,10.0,4.0
+209,Stadsdriehoek,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.9,19.0,10.0
+210,Stadsdriehoek,2.5.1 Diefstal/inbraak bedrijven enz.,normale groei,0.42857142857142855,3.0,7.0
+211,Stadsdriehoek,2.5.2 Winkeldiefstal,extreem hoge groei,4.25,17.0,4.0
+212,Stadsdriehoek,Geluidshinder overig,extreem lage groei,0.11627906976744186,5.0,43.0
+213,Stadsdriehoek,Overlast door verward persoon,normale groei,0.7692307692307693,20.0,26.0
+214,Stadsdriehoek,Overlast ivm alcohol/ drugs,normale groei,0.6428571428571429,9.0,14.0
+215,Stadsdriehoek,Overlast zwervers,normale groei,1.3333333333333333,24.0,18.0
+216,Stadsdriehoek,Totaal misdrijven,extreem hoge groei,1.9219858156028369,271.0,141.0
+217,Stadsdriehoek,Totaal registraties overlast,extreem lage groei,0.6890756302521008,82.0,119.0
+218,Oude Westen,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.3333333333333335,7.0,3.0
+219,Oude Westen,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,3.5,14.0,4.0
+220,Oude Westen,1.4.5 Mishandeling,extreem hoge groei,10.0,10.0,1.0
+221,Oude Westen,Overlast door verward persoon,normale groei,0.8571428571428571,6.0,7.0
+222,Oude Westen,Overlast ivm alcohol/ drugs,normale groei,1.2,6.0,5.0
+223,Oude Westen,Totaal misdrijven,extreem hoge groei,1.6415094339622642,87.0,53.0
+224,Oude Westen,Totaal registraties overlast,normale groei,0.8125,39.0,48.0
+225,Cool,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.2857142857142856,16.0,7.0
+226,Cool,"1.2.3 Diefstal van brom-, snor-, fietsen",extreem hoge groei,12.333333333333334,37.0,3.0
+227,Cool,1.2.4 Zakkenrollerij,normale groei,2.75,11.0,4.0
+228,Cool,1.4.5 Mishandeling,extreem hoge groei,2.857142857142857,20.0,7.0
+229,Cool,2.2.1 Vernieling cq. zaakbeschadiging,extreem hoge groei,3.2,16.0,5.0
+230,Cool,2.5.2 Winkeldiefstal,extreem hoge groei,8.0,40.0,5.0
+231,Cool,Overlast ivm alcohol/ drugs,normale groei,2.0,16.0,8.0
+232,Cool,Totaal misdrijven,extreem hoge groei,3.3209876543209877,269.0,81.0
+233,Cool,Totaal registraties overlast,normale groei,1.875,120.0,64.0
+234,Cs Kwartier,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.8,12.0,15.0
+235,Cs Kwartier,Totaal misdrijven,normale groei,1.5961538461538463,83.0,52.0
+236,Cs Kwartier,Totaal registraties overlast,normale groei,0.6666666666666666,20.0,30.0
+237,Nieuwe Werk,Totaal misdrijven,normale groei,1.8,36.0,20.0
+238,Dijkzigt,Totaal misdrijven,normale groei,1.5,36.0,24.0
+239,Delfshaven,Geluidshinder overig,normale groei,0.4117647058823529,7.0,17.0
+240,Delfshaven,Totaal misdrijven,extreem hoge groei,1.5454545454545454,51.0,33.0
+241,Delfshaven,Totaal registraties overlast,normale groei,0.5660377358490566,30.0,53.0
+242,Bospolder,Totaal misdrijven,normale groei,1.0606060606060606,35.0,33.0
+243,Bospolder,Totaal registraties overlast,extreem lage groei,0.28125,9.0,32.0
+244,Tussendijken,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.4,2.0,5.0
+245,Tussendijken,Totaal misdrijven,normale groei,0.6938775510204082,34.0,49.0
+246,Tussendijken,Totaal registraties overlast,normale groei,0.55,22.0,40.0
+247,Spangen,Totaal misdrijven,extreem hoge groei,1.8076923076923077,94.0,52.0
+248,Spangen,Totaal registraties overlast,normale groei,1.375,44.0,32.0
+249,Nieuwe Westen,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,5.5,11.0,2.0
+250,Nieuwe Westen,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.8181818181818182,9.0,11.0
+251,Nieuwe Westen,1.4.4 Bedreiging,normale groei,1.4,7.0,5.0
+252,Nieuwe Westen,1.4.5 Mishandeling,normale groei,0.875,7.0,8.0
+253,Nieuwe Westen,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.38461538461538464,5.0,13.0
+254,Nieuwe Westen,Geluidshinder overig,extreem lage groei,0.3157894736842105,12.0,38.0
+255,Nieuwe Westen,Overlast door verward persoon,normale groei,1.75,14.0,8.0
+256,Nieuwe Westen,Totaal misdrijven,normale groei,1.054945054945055,96.0,91.0
+257,Nieuwe Westen,Totaal registraties overlast,normale groei,0.6455696202531646,51.0,79.0
+258,Middelland,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.875,7.0,8.0
+259,Middelland,1.4.5 Mishandeling,normale groei,0.8571428571428571,6.0,7.0
+260,Middelland,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,2.0,8.0,4.0
+261,Middelland,Geluidshinder overig,extreem lage groei,0.05,1.0,20.0
+262,Middelland,Totaal misdrijven,normale groei,1.46875,94.0,64.0
+263,Middelland,Totaal registraties overlast,normale groei,0.7083333333333334,34.0,48.0
+264,Oud Mathenesse,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.3333333333333333,4.0,3.0
+265,Oud Mathenesse,Geluidshinder overig,normale groei,0.8571428571428571,12.0,14.0
+266,Oud Mathenesse,Totaal misdrijven,normale groei,1.0,41.0,41.0
+267,Oud Mathenesse,Totaal registraties overlast,normale groei,1.1851851851851851,32.0,27.0
+268,Schiemond,Totaal misdrijven,extreem hoge groei,1.8928571428571428,53.0,28.0
+269,Schiemond,Totaal registraties overlast,normale groei,0.5,11.0,22.0
+270,Kleinpolder,Totaal misdrijven,normale groei,1.0571428571428572,37.0,35.0
+271,Kleinpolder,Totaal registraties overlast,normale groei,1.2222222222222223,22.0,18.0
+272,Zestienhoven,Totaal misdrijven,normale groei,2.1,21.0,10.0
+273,Overschie,Totaal misdrijven,extreem hoge groei,2.0,36.0,18.0
+274,Overschie,Totaal registraties overlast,normale groei,0.7727272727272727,17.0,22.0
 275,Agniesebuurt,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.5,3.0,6.0
-276,Agniesebuurt,Totaal misdrijven,normale groei,0.75,24.0,32.0
-277,Agniesebuurt,Totaal registraties overlast,normale groei,0.627906976744186,27.0,43.0
-278,Provenierswijk,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,2.0,6.0,3.0
-279,Provenierswijk,Totaal misdrijven,normale groei,1.6111111111111112,29.0,18.0
-280,Provenierswijk,Totaal registraties overlast,normale groei,2.272727272727273,25.0,11.0
-281,Bergpolder,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.0,4.0,4.0
-282,Bergpolder,Geluidshinder overig,normale groei,1.7777777777777777,16.0,9.0
-283,Bergpolder,Totaal misdrijven,normale groei,1.2058823529411764,41.0,34.0
-284,Bergpolder,Totaal registraties overlast,normale groei,1.9375,31.0,16.0
-285,Blijdorp,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,6.5,13.0,2.0
-286,Blijdorp,Geluidshinder overig,normale groei,0.5,8.0,16.0
-287,Blijdorp,Totaal misdrijven,extreem hoge groei,2.051282051282051,80.0,39.0
-288,Blijdorp,Totaal registraties overlast,normale groei,1.0857142857142856,38.0,35.0
-289,Liskwartier,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.6666666666666667,5.0,3.0
-290,Liskwartier,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.3333333333333333,2.0,6.0
-291,Liskwartier,Totaal misdrijven,normale groei,1.0625,34.0,32.0
-292,Liskwartier,Totaal registraties overlast,normale groei,0.8518518518518519,23.0,27.0
-293,Oude Noorden,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.0,10.0,5.0
-294,Oude Noorden,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.7692307692307693,10.0,13.0
-295,Oude Noorden,1.4.5 Mishandeling,normale groei,0.75,3.0,4.0
-296,Oude Noorden,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0909090909090908,12.0,11.0
-297,Oude Noorden,Geluidshinder overig,normale groei,0.5925925925925926,16.0,27.0
-298,Oude Noorden,Melding overlast jeugd,normale groei,1.0,5.0,5.0
-299,Oude Noorden,Overlast door verward persoon,normale groei,2.7777777777777777,25.0,9.0
-300,Oude Noorden,Totaal misdrijven,normale groei,1.2446808510638299,117.0,94.0
-301,Oude Noorden,Totaal registraties overlast,normale groei,1.4464285714285714,81.0,56.0
-302,Blijdorpsepolder,Totaal misdrijven,extreem hoge groei,4.5,36.0,8.0
-303,Schiebroek,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.75,7.0,4.0
-304,Schiebroek,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0,7.0,7.0
-305,Schiebroek,Geluidshinder overig,normale groei,2.0625,33.0,16.0
-306,Schiebroek,Totaal misdrijven,normale groei,0.855072463768116,59.0,69.0
-307,Schiebroek,Totaal registraties overlast,normale groei,1.6935483870967742,105.0,62.0
-308,Hillegersberg Zuid,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,7.0,7.0,1.0
-309,Hillegersberg Zuid,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,2.1666666666666665,13.0,6.0
-310,Hillegersberg Zuid,Totaal misdrijven,extreem hoge groei,2.107142857142857,59.0,28.0
-311,Hillegersberg Zuid,Totaal registraties overlast,extreem hoge groei,5.2,26.0,5.0
-312,Hillegersberg Noord,Totaal misdrijven,normale groei,1.5294117647058822,52.0,34.0
-313,Hillegersberg Noord,Totaal registraties overlast,normale groei,1.8461538461538463,24.0,13.0
-314,Terbregge,Totaal misdrijven,normale groei,0.5294117647058824,9.0,17.0
-315,Molenlaankwartier,Totaal misdrijven,normale groei,0.5925925925925926,16.0,27.0
-316,Rubroek,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.0,7.0,7.0
-317,Rubroek,Geluidshinder overig,normale groei,0.6153846153846154,8.0,13.0
-318,Rubroek,Totaal misdrijven,normale groei,0.8709677419354839,54.0,62.0
-319,Rubroek,Totaal registraties overlast,normale groei,1.2105263157894737,46.0,38.0
-320,Nieuw Crooswijk,Totaal misdrijven,normale groei,0.8275862068965517,24.0,29.0
-321,Oud Crooswijk,Geluidshinder overig,normale groei,1.3333333333333333,8.0,6.0
-322,Oud Crooswijk,Totaal misdrijven,normale groei,1.0227272727272727,45.0,44.0
-323,Oud Crooswijk,Totaal registraties overlast,normale groei,1.0476190476190477,22.0,21.0
-324,Kralingen West,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,4.5,18.0,4.0
-325,Kralingen West,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.0,12.0,12.0
-326,Kralingen West,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.2,6.0,5.0
-327,Kralingen West,Geluidshinder overig,extreem lage groei,0.3333333333333333,25.0,75.0
-328,Kralingen West,Melding overlast jeugd,normale groei,0.625,5.0,8.0
-329,Kralingen West,Overlast door verward persoon,normale groei,0.625,10.0,16.0
-330,Kralingen West,Totaal misdrijven,normale groei,0.92,92.0,100.0
-331,Kralingen West,Totaal registraties overlast,extreem lage groei,0.43119266055045874,47.0,109.0
-332,Kralingen Oost,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,7.333333333333333,22.0,3.0
-333,Kralingen Oost,"1.2.3 Diefstal van brom-, snor-, fietsen",extreem lage groei,0.14285714285714285,1.0,7.0
-334,Kralingen Oost,Geluidshinder overig,extreem lage groei,0.12903225806451613,4.0,31.0
-335,Kralingen Oost,Totaal misdrijven,normale groei,1.2894736842105263,49.0,38.0
-336,Kralingen Oost,Totaal registraties overlast,extreem lage groei,0.3333333333333333,14.0,42.0
-337,Kralingse Bos,Totaal misdrijven,normale groei,1.4666666666666666,22.0,15.0
-338,De Esch,Totaal misdrijven,normale groei,1.2608695652173914,29.0,23.0
-339,De Esch,Totaal registraties overlast,normale groei,2.1666666666666665,26.0,12.0
-340,Struisenburg,Totaal misdrijven,normale groei,1.6666666666666667,45.0,27.0
-341,Struisenburg,Totaal registraties overlast,normale groei,0.5652173913043478,13.0,23.0
-342,Kop van Zuid,Totaal misdrijven,extreem hoge groei,2.55,51.0,20.0
-343,Kop van Zuid - Entrepot,Totaal misdrijven,normale groei,1.0416666666666667,50.0,48.0
-344,Kop van Zuid - Entrepot,Totaal registraties overlast,normale groei,0.8611111111111112,31.0,36.0
-345,Vreewijk,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,0.4444444444444444,4.0,9.0
-346,Vreewijk,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.0,7.0,7.0
-347,Vreewijk,1.4.4 Bedreiging,normale groei,0.36363636363636365,4.0,11.0
-348,Vreewijk,1.4.5 Mishandeling,normale groei,4.0,8.0,2.0
-349,Vreewijk,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.1538461538461537,15.0,13.0
-350,Vreewijk,Geluidshinder overig,normale groei,0.5625,9.0,16.0
-351,Vreewijk,Overlast door verward persoon,normale groei,3.6,36.0,10.0
-352,Vreewijk,Totaal misdrijven,normale groei,0.8910891089108911,90.0,101.0
-353,Vreewijk,Totaal registraties overlast,normale groei,1.3111111111111111,59.0,45.0
-354,Bloemhof,1.4.4 Bedreiging,normale groei,0.6,3.0,5.0
-355,Bloemhof,1.4.5 Mishandeling,normale groei,1.2857142857142858,9.0,7.0
-356,Bloemhof,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.5,6.0,12.0
-357,Bloemhof,Geluidshinder overig,normale groei,0.43478260869565216,10.0,23.0
-358,Bloemhof,Melding overlast jeugd,normale groei,1.5,9.0,6.0
-359,Bloemhof,Overlast door verward persoon,normale groei,2.8333333333333335,17.0,6.0
-360,Bloemhof,Overlast ivm alcohol/ drugs,normale groei,1.5714285714285714,11.0,7.0
-361,Bloemhof,Totaal misdrijven,normale groei,0.9113924050632911,72.0,79.0
-362,Bloemhof,Totaal registraties overlast,normale groei,1.1111111111111112,50.0,45.0
-363,Hillesluis,1.4.5 Mishandeling,normale groei,2.75,11.0,4.0
-364,Hillesluis,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.4,7.0,5.0
-365,Hillesluis,Geluidshinder overig,normale groei,0.2727272727272727,6.0,22.0
-366,Hillesluis,Totaal misdrijven,normale groei,1.0857142857142856,76.0,70.0
-367,Hillesluis,Totaal registraties overlast,normale groei,0.5192307692307693,27.0,52.0
-368,Katendrecht,Totaal misdrijven,normale groei,0.8571428571428571,30.0,35.0
-369,Katendrecht,Totaal registraties overlast,normale groei,0.4666666666666667,7.0,15.0
-370,Afrikaanderwijk,Totaal misdrijven,normale groei,1.5609756097560976,64.0,41.0
-371,Afrikaanderwijk,Totaal registraties overlast,normale groei,0.9166666666666666,33.0,36.0
-372,Feijenoord,Totaal misdrijven,normale groei,0.8,28.0,35.0
-373,Feijenoord,Totaal registraties overlast,normale groei,0.5555555555555556,15.0,27.0
-374,Noordereiland,Totaal misdrijven,extreem lage groei,0.23529411764705882,4.0,17.0
-375,Noordereiland,Totaal registraties overlast,normale groei,0.8,8.0,10.0
-376,Oud IJsselmonde,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,3.0,6.0,2.0
-377,Oud IJsselmonde,Totaal misdrijven,normale groei,1.175,47.0,40.0
-378,Oud IJsselmonde,Totaal registraties overlast,normale groei,1.625,26.0,16.0
-379,Lombardijen,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,2.3333333333333335,7.0,3.0
-380,Lombardijen,1.4.5 Mishandeling,normale groei,1.0,6.0,6.0
-381,Lombardijen,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.3333333333333333,8.0,6.0
-382,Lombardijen,Geluidshinder overig,normale groei,0.5909090909090909,13.0,22.0
-383,Lombardijen,Totaal misdrijven,extreem hoge groei,1.507462686567164,101.0,67.0
-384,Lombardijen,Totaal registraties overlast,normale groei,0.8604651162790697,37.0,43.0
-385,Groot IJsselmonde,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.5454545454545454,28.0,11.0
-386,Groot IJsselmonde,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.8,8.0,10.0
-387,Groot IJsselmonde,1.4.4 Bedreiging,normale groei,0.8571428571428571,6.0,7.0
-388,Groot IJsselmonde,1.4.5 Mishandeling,normale groei,1.1666666666666667,14.0,12.0
-389,Groot IJsselmonde,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.1818181818181819,13.0,11.0
-390,Groot IJsselmonde,2.5.2 Winkeldiefstal,normale groei,1.625,13.0,8.0
-391,Groot IJsselmonde,Geluidshinder overig,normale groei,0.4857142857142857,17.0,35.0
-392,Groot IJsselmonde,Melding overlast jeugd,normale groei,0.6666666666666666,12.0,18.0
-393,Groot IJsselmonde,Overlast door verward persoon,normale groei,0.5384615384615384,14.0,26.0
-394,Groot IJsselmonde,Totaal misdrijven,normale groei,1.1097560975609757,182.0,164.0
-395,Groot IJsselmonde,Totaal registraties overlast,extreem lage groei,0.5402298850574713,47.0,87.0
-396,Beverwaard,Geluidshinder overig,normale groei,1.0,15.0,15.0
-397,Beverwaard,Totaal misdrijven,normale groei,0.803030303030303,53.0,66.0
-398,Beverwaard,Totaal registraties overlast,normale groei,0.7647058823529411,26.0,34.0
-399,Pernis,Totaal misdrijven,extreem lage groei,0.38461538461538464,5.0,13.0
-400,'s-Gravenland,Totaal misdrijven,normale groei,0.918918918918919,34.0,37.0
-401,'s-Gravenland,Totaal registraties overlast,normale groei,1.5384615384615385,20.0,13.0
-402,Prinsenland,Geluidshinder overig,normale groei,0.625,5.0,8.0
-403,Prinsenland,Totaal misdrijven,normale groei,1.65625,53.0,32.0
-404,Prinsenland,Totaal registraties overlast,normale groei,0.8947368421052632,17.0,19.0
-405,Het Lage Land,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,2.0,2.0,1.0
-406,Het Lage Land,Overlast door verward persoon,normale groei,0.8571428571428571,6.0,7.0
-407,Het Lage Land,Totaal misdrijven,normale groei,1.1311475409836065,69.0,61.0
-408,Het Lage Land,Totaal registraties overlast,normale groei,1.2380952380952381,26.0,21.0
-409,Ommoord,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,11.0,11.0,1.0
-410,Ommoord,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.375,11.0,8.0
-411,Ommoord,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.9090909090909091,10.0,11.0
-412,Ommoord,Geluidshinder overig,normale groei,0.6875,11.0,16.0
-413,Ommoord,Totaal misdrijven,normale groei,0.8969072164948454,87.0,97.0
-414,Ommoord,Totaal registraties overlast,normale groei,0.9069767441860465,39.0,43.0
-415,Zevenkamp,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.3,3.0,10.0
-416,Zevenkamp,Geluidshinder overig,normale groei,2.0,18.0,9.0
-417,Zevenkamp,Melding overlast jeugd,normale groei,1.2,6.0,5.0
-418,Zevenkamp,Overlast door verward persoon,normale groei,0.55,11.0,20.0
-419,Zevenkamp,Totaal misdrijven,extreem lage groei,0.5862068965517241,51.0,87.0
-420,Zevenkamp,Totaal registraties overlast,normale groei,1.027027027027027,38.0,37.0
-421,Oosterflank,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.5,9.0,6.0
-422,Oosterflank,2.5.2 Winkeldiefstal,normale groei,0.75,9.0,12.0
-423,Oosterflank,Geluidshinder overig,normale groei,0.6,6.0,10.0
-424,Oosterflank,Totaal misdrijven,normale groei,1.0,74.0,74.0
-425,Oosterflank,Totaal registraties overlast,normale groei,0.5789473684210527,22.0,38.0
-426,Nesselande,Totaal misdrijven,normale groei,0.5116279069767442,22.0,43.0
-427,Nesselande,Totaal registraties overlast,normale groei,0.8333333333333334,15.0,18.0
-428,Charlois Zuidrand,Totaal misdrijven,normale groei,1.1428571428571428,8.0,7.0
-429,Tarwewijk,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.0,6.0,6.0
-430,Tarwewijk,1.4.5 Mishandeling,normale groei,0.75,9.0,12.0
-431,Tarwewijk,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.1666666666666667,7.0,6.0
-432,Tarwewijk,Geluidshinder overig,normale groei,0.5,10.0,20.0
-433,Tarwewijk,Totaal misdrijven,normale groei,0.8316831683168316,84.0,101.0
-434,Tarwewijk,Totaal registraties overlast,normale groei,0.7142857142857143,40.0,56.0
-435,Carnisse,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.3333333333333333,1.0,3.0
-436,Carnisse,1.4.5 Mishandeling,normale groei,0.2857142857142857,2.0,7.0
-437,Carnisse,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0,4.0,4.0
-438,Carnisse,Geluidshinder overig,normale groei,0.84,21.0,25.0
-439,Carnisse,Overlast door verward persoon,normale groei,1.25,15.0,12.0
-440,Carnisse,Totaal misdrijven,normale groei,0.8142857142857143,57.0,70.0
-441,Carnisse,Totaal registraties overlast,normale groei,1.065217391304348,49.0,46.0
-442,Zuidwijk,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.0,10.0,5.0
-443,Zuidwijk,1.4.5 Mishandeling,normale groei,1.0,4.0,4.0
-444,Zuidwijk,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.75,7.0,4.0
-445,Zuidwijk,Geluidshinder overig,normale groei,0.36363636363636365,8.0,22.0
-446,Zuidwijk,Overlast door verward persoon,normale groei,1.3888888888888888,25.0,18.0
-447,Zuidwijk,Totaal misdrijven,normale groei,1.1195652173913044,103.0,92.0
-448,Zuidwijk,Totaal registraties overlast,normale groei,0.7758620689655172,45.0,58.0
-449,Oud Charlois,1.4.5 Mishandeling,normale groei,1.0,5.0,5.0
-450,Oud Charlois,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.6666666666666667,5.0,3.0
-451,Oud Charlois,Geluidshinder overig,normale groei,0.5,9.0,18.0
-452,Oud Charlois,Overlast door verward persoon,normale groei,0.8,12.0,15.0
-453,Oud Charlois,Totaal misdrijven,normale groei,0.9571428571428572,67.0,70.0
-454,Oud Charlois,Totaal registraties overlast,normale groei,0.7906976744186046,34.0,43.0
-455,Zuidplein,2.5.2 Winkeldiefstal,normale groei,1.5714285714285714,11.0,7.0
-456,Zuidplein,Totaal misdrijven,normale groei,1.0666666666666667,64.0,60.0
-457,Zuidplein,Totaal registraties overlast,normale groei,0.7631578947368421,29.0,38.0
-458,Pendrecht,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.5454545454545454,6.0,11.0
-459,Pendrecht,Geluidshinder overig,normale groei,0.3333333333333333,4.0,12.0
-460,Pendrecht,Totaal misdrijven,normale groei,0.7634408602150538,71.0,93.0
-461,Pendrecht,Totaal registraties overlast,normale groei,0.4594594594594595,17.0,37.0
-462,Zuiderpark,Totaal misdrijven,normale groei,1.2333333333333334,37.0,30.0
-463,Hoogvliet Noord,Geluidshinder overig,normale groei,0.6666666666666666,8.0,12.0
-464,Hoogvliet Noord,Totaal misdrijven,normale groei,0.9574468085106383,45.0,47.0
-465,Hoogvliet Noord,Totaal registraties overlast,normale groei,0.4473684210526316,17.0,38.0
-466,Hoogvliet Zuid,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0909090909090908,12.0,11.0
-467,Hoogvliet Zuid,Geluidshinder overig,normale groei,0.7142857142857143,20.0,28.0
-468,Hoogvliet Zuid,Overlast door verward persoon,normale groei,1.0769230769230769,14.0,13.0
-469,Hoogvliet Zuid,Totaal misdrijven,normale groei,0.8539325842696629,76.0,89.0
-470,Hoogvliet Zuid,Totaal registraties overlast,normale groei,0.9107142857142857,51.0,56.0
-471,Strand en Duin,Totaal misdrijven,normale groei,0.8333333333333334,10.0,12.0
-472,Dorp,Totaal misdrijven,normale groei,0.7560975609756098,31.0,41.0
-473,Dorp,Totaal registraties overlast,normale groei,0.8333333333333334,20.0,24.0
-474,Spaanse Polder,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,9.5,19.0,2.0
-475,Spaanse Polder,Totaal misdrijven,normale groei,1.74,87.0,50.0
-476,Nieuw Mathenesse,Totaal misdrijven,normale groei,1.3529411764705883,23.0,17.0
-477,Waalhaven,Totaal misdrijven,normale groei,1.7333333333333334,26.0,15.0
-478,Eemhaven,Totaal misdrijven,normale groei,1.6666666666666667,10.0,6.0
-479,Waalhaven Zuid,Totaal misdrijven,normale groei,2.111111111111111,19.0,9.0
-480,Botlek,Totaal misdrijven,normale groei,0.7916666666666666,19.0,24.0
-481,Europoort,Totaal misdrijven,normale groei,1.3333333333333333,12.0,9.0
-482,Maasvlakte,Totaal misdrijven,normale groei,1.0588235294117647,18.0,17.0
-483,Bedrijvenpark Noord-West,Totaal misdrijven,normale groei,0.8181818181818182,9.0,11.0
-484,Rozenburg,Geluidshinder overig,normale groei,1.2222222222222223,11.0,9.0
-485,Rozenburg,Melding overlast jeugd,normale groei,0.5,2.0,4.0
-486,Rozenburg,Totaal misdrijven,normale groei,1.1219512195121952,46.0,41.0
-487,Rozenburg,Totaal registraties overlast,normale groei,1.588235294117647,27.0,17.0
+276,Agniesebuurt,Totaal misdrijven,normale groei,0.9393939393939394,31.0,33.0
+277,Agniesebuurt,Totaal registraties overlast,normale groei,0.9629629629629629,26.0,27.0
+278,Provenierswijk,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.3333333333333333,2.0,6.0
+279,Provenierswijk,Totaal misdrijven,normale groei,0.6666666666666666,14.0,21.0
+280,Provenierswijk,Totaal registraties overlast,normale groei,0.7142857142857143,20.0,28.0
+281,Bergpolder,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.5,9.0,6.0
+282,Bergpolder,Geluidshinder overig,normale groei,1.0526315789473684,20.0,19.0
+283,Bergpolder,Totaal misdrijven,normale groei,0.8717948717948718,34.0,39.0
+284,Bergpolder,Totaal registraties overlast,normale groei,0.7692307692307693,30.0,39.0
+285,Blijdorp,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.6666666666666665,8.0,3.0
+286,Blijdorp,Geluidshinder overig,normale groei,0.75,6.0,8.0
+287,Blijdorp,Totaal misdrijven,normale groei,1.6363636363636365,72.0,44.0
+288,Blijdorp,Totaal registraties overlast,normale groei,1.0476190476190477,22.0,21.0
+289,Liskwartier,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.0,4.0,2.0
+290,Liskwartier,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,3.5,7.0,2.0
+291,Liskwartier,Totaal misdrijven,normale groei,1.088235294117647,37.0,34.0
+292,Liskwartier,Totaal registraties overlast,normale groei,0.967741935483871,30.0,31.0
+293,Oude Noorden,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.3333333333333335,7.0,3.0
+294,Oude Noorden,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.6,12.0,20.0
+295,Oude Noorden,1.4.5 Mishandeling,normale groei,0.8,4.0,5.0
+296,Oude Noorden,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.5,9.0,6.0
+297,Oude Noorden,Geluidshinder overig,normale groei,0.8461538461538461,22.0,26.0
+298,Oude Noorden,Melding overlast jeugd,normale groei,1.4,7.0,5.0
+299,Oude Noorden,Overlast door verward persoon,normale groei,2.2,22.0,10.0
+300,Oude Noorden,Totaal misdrijven,normale groei,1.1162790697674418,96.0,86.0
+301,Oude Noorden,Totaal registraties overlast,normale groei,1.588235294117647,81.0,51.0
+302,Blijdorpsepolder,Totaal misdrijven,normale groei,2.0,24.0,12.0
+303,Schiebroek,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.3076923076923077,17.0,13.0
+304,Schiebroek,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0,5.0,5.0
+305,Schiebroek,Geluidshinder overig,normale groei,1.2962962962962963,35.0,27.0
+306,Schiebroek,Totaal misdrijven,normale groei,0.9868421052631579,75.0,76.0
+307,Schiebroek,Totaal registraties overlast,normale groei,1.0705882352941176,91.0,85.0
+308,Hillegersberg Zuid,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.6666666666666667,5.0,3.0
+309,Hillegersberg Zuid,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.6666666666666666,2.0,3.0
+310,Hillegersberg Zuid,Totaal misdrijven,normale groei,1.0857142857142856,38.0,35.0
+311,Hillegersberg Zuid,Totaal registraties overlast,normale groei,1.2666666666666666,19.0,15.0
+312,Hillegersberg Noord,Totaal misdrijven,normale groei,0.8181818181818182,36.0,44.0
+313,Hillegersberg Noord,Totaal registraties overlast,normale groei,1.5789473684210527,30.0,19.0
+314,Terbregge,Totaal misdrijven,normale groei,0.6470588235294118,11.0,17.0
+315,Molenlaankwartier,Totaal misdrijven,normale groei,1.2857142857142858,18.0,14.0
+316,Rubroek,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,2.2,11.0,5.0
+317,Rubroek,Geluidshinder overig,normale groei,0.8888888888888888,8.0,9.0
+318,Rubroek,Totaal misdrijven,normale groei,0.9423076923076923,49.0,52.0
+319,Rubroek,Totaal registraties overlast,normale groei,1.096774193548387,34.0,31.0
+320,Nieuw Crooswijk,Totaal misdrijven,normale groei,0.7083333333333334,17.0,24.0
+321,Oud Crooswijk,Geluidshinder overig,normale groei,1.0,6.0,6.0
+322,Oud Crooswijk,Totaal misdrijven,normale groei,0.9487179487179487,37.0,39.0
+323,Oud Crooswijk,Totaal registraties overlast,normale groei,0.85,17.0,20.0
+324,Kralingen West,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.0,5.0,5.0
+325,Kralingen West,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.2142857142857142,17.0,14.0
+326,Kralingen West,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,2.0,8.0,4.0
+327,Kralingen West,Geluidshinder overig,normale groei,0.6078431372549019,31.0,51.0
+328,Kralingen West,Melding overlast jeugd,normale groei,3.3333333333333335,10.0,3.0
+329,Kralingen West,Overlast door verward persoon,normale groei,0.9285714285714286,13.0,14.0
+330,Kralingen West,Totaal misdrijven,normale groei,0.875,77.0,88.0
+331,Kralingen West,Totaal registraties overlast,normale groei,0.7662337662337663,59.0,77.0
+332,Kralingen Oost,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,5.666666666666667,17.0,3.0
+333,Kralingen Oost,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.4444444444444444,4.0,9.0
+334,Kralingen Oost,Geluidshinder overig,normale groei,0.5357142857142857,15.0,28.0
+335,Kralingen Oost,Totaal misdrijven,normale groei,1.3103448275862069,38.0,29.0
+336,Kralingen Oost,Totaal registraties overlast,normale groei,0.6176470588235294,21.0,34.0
+337,Kralingse Bos,Totaal misdrijven,normale groei,1.0666666666666667,16.0,15.0
+338,De Esch,Totaal misdrijven,normale groei,1.8421052631578947,35.0,19.0
+339,De Esch,Totaal registraties overlast,normale groei,0.5416666666666666,13.0,24.0
+340,Struisenburg,Totaal misdrijven,extreem hoge groei,3.2941176470588234,56.0,17.0
+341,Struisenburg,Totaal registraties overlast,normale groei,1.1428571428571428,24.0,21.0
+342,Kop van Zuid,Totaal misdrijven,extreem hoge groei,3.0588235294117645,52.0,17.0
+343,Kop van Zuid - Entrepot,Totaal misdrijven,normale groei,1.0857142857142856,38.0,35.0
+344,Kop van Zuid - Entrepot,Totaal registraties overlast,normale groei,0.5238095238095238,22.0,42.0
+345,Vreewijk,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.2,12.0,10.0
+346,Vreewijk,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,2.142857142857143,15.0,7.0
+347,Vreewijk,1.4.4 Bedreiging,normale groei,0.6666666666666666,4.0,6.0
+348,Vreewijk,1.4.5 Mishandeling,normale groei,0.8,4.0,5.0
+349,Vreewijk,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.0,8.0,8.0
+350,Vreewijk,Geluidshinder overig,extreem lage groei,0.16666666666666666,3.0,18.0
+351,Vreewijk,Overlast door verward persoon,normale groei,0.65,13.0,20.0
+352,Vreewijk,Totaal misdrijven,normale groei,1.053763440860215,98.0,93.0
+353,Vreewijk,Totaal registraties overlast,normale groei,0.7547169811320755,40.0,53.0
+354,Bloemhof,1.4.4 Bedreiging,normale groei,0.5,3.0,6.0
+355,Bloemhof,1.4.5 Mishandeling,normale groei,0.4,4.0,10.0
+356,Bloemhof,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.375,3.0,8.0
+357,Bloemhof,Geluidshinder overig,normale groei,0.5833333333333334,7.0,12.0
+358,Bloemhof,Melding overlast jeugd,extreem lage groei,0.16666666666666666,2.0,12.0
+359,Bloemhof,Overlast door verward persoon,normale groei,2.1666666666666665,13.0,6.0
+360,Bloemhof,Overlast ivm alcohol/ drugs,normale groei,1.2222222222222223,11.0,9.0
+361,Bloemhof,Totaal misdrijven,normale groei,0.6219512195121951,51.0,82.0
+362,Bloemhof,Totaal registraties overlast,normale groei,0.9523809523809523,40.0,42.0
+363,Hillesluis,1.4.5 Mishandeling,normale groei,2.0,8.0,4.0
+364,Hillesluis,2.2.1 Vernieling cq. zaakbeschadiging,extreem hoge groei,7.0,14.0,2.0
+365,Hillesluis,Geluidshinder overig,normale groei,1.0,4.0,4.0
+366,Hillesluis,Totaal misdrijven,normale groei,1.082191780821918,79.0,73.0
+367,Hillesluis,Totaal registraties overlast,normale groei,1.1111111111111112,30.0,27.0
+368,Katendrecht,Totaal misdrijven,normale groei,1.0588235294117647,36.0,34.0
+369,Katendrecht,Totaal registraties overlast,normale groei,1.0,3.0,3.0
+370,Afrikaanderwijk,Totaal misdrijven,normale groei,1.02,51.0,50.0
+371,Afrikaanderwijk,Totaal registraties overlast,normale groei,0.7333333333333333,22.0,30.0
+372,Feijenoord,Totaal misdrijven,normale groei,1.3703703703703705,37.0,27.0
+373,Feijenoord,Totaal registraties overlast,normale groei,0.7037037037037037,19.0,27.0
+374,Noordereiland,Totaal misdrijven,normale groei,1.4545454545454546,16.0,11.0
+375,Noordereiland,Totaal registraties overlast,normale groei,0.6,6.0,10.0
+376,Oud IJsselmonde,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,2.0,10.0,5.0
+377,Oud IJsselmonde,Totaal misdrijven,extreem hoge groei,2.5641025641025643,100.0,39.0
+378,Oud IJsselmonde,Totaal registraties overlast,normale groei,0.8947368421052632,17.0,19.0
+379,Lombardijen,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.0,4.0,4.0
+380,Lombardijen,1.4.5 Mishandeling,normale groei,0.8571428571428571,6.0,7.0
+381,Lombardijen,2.2.1 Vernieling cq. zaakbeschadiging,extreem hoge groei,5.0,5.0,1.0
+382,Lombardijen,Geluidshinder overig,extreem lage groei,0.3125,10.0,32.0
+383,Lombardijen,Totaal misdrijven,normale groei,1.4655172413793103,85.0,58.0
+384,Lombardijen,Totaal registraties overlast,normale groei,0.819672131147541,50.0,61.0
+385,Groot IJsselmonde,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.3333333333333333,12.0,9.0
+386,Groot IJsselmonde,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.875,7.0,8.0
+387,Groot IJsselmonde,1.4.4 Bedreiging,normale groei,1.4444444444444444,13.0,9.0
+388,Groot IJsselmonde,1.4.5 Mishandeling,normale groei,0.625,10.0,16.0
+389,Groot IJsselmonde,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.5238095238095238,11.0,21.0
+390,Groot IJsselmonde,2.5.2 Winkeldiefstal,normale groei,1.4444444444444444,13.0,9.0
+391,Groot IJsselmonde,Geluidshinder overig,normale groei,1.3478260869565217,31.0,23.0
+392,Groot IJsselmonde,Melding overlast jeugd,normale groei,0.5416666666666666,13.0,24.0
+393,Groot IJsselmonde,Overlast door verward persoon,normale groei,0.8947368421052632,17.0,19.0
+394,Groot IJsselmonde,Totaal misdrijven,normale groei,1.0440251572327044,166.0,159.0
+395,Groot IJsselmonde,Totaal registraties overlast,normale groei,0.9753086419753086,79.0,81.0
+396,Beverwaard,Geluidshinder overig,normale groei,1.125,9.0,8.0
+397,Beverwaard,Totaal misdrijven,normale groei,0.813953488372093,35.0,43.0
+398,Beverwaard,Totaal registraties overlast,normale groei,1.0588235294117647,18.0,17.0
+399,Pernis,Totaal misdrijven,normale groei,1.1111111111111112,10.0,9.0
+400,'s-Gravenland,Totaal misdrijven,normale groei,0.9615384615384616,25.0,26.0
+401,'s-Gravenland,Totaal registraties overlast,normale groei,1.125,9.0,8.0
+402,Prinsenland,Geluidshinder overig,normale groei,0.8333333333333334,5.0,6.0
+403,Prinsenland,Totaal misdrijven,normale groei,0.9444444444444444,34.0,36.0
+404,Prinsenland,Totaal registraties overlast,normale groei,0.5,13.0,26.0
+405,Het Lage Land,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.5,1.0,2.0
+406,Het Lage Land,Overlast door verward persoon,normale groei,1.0,6.0,6.0
+407,Het Lage Land,Totaal misdrijven,normale groei,0.9454545454545454,52.0,55.0
+408,Het Lage Land,Totaal registraties overlast,normale groei,0.5263157894736842,20.0,38.0
+409,Ommoord,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,1.5,6.0,4.0
+410,Ommoord,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,0.5555555555555556,5.0,9.0
+411,Ommoord,Geluidshinder overig,normale groei,0.4117647058823529,7.0,17.0
+412,Ommoord,Totaal misdrijven,normale groei,0.6,63.0,105.0
+413,Ommoord,Totaal registraties overlast,normale groei,0.8,44.0,55.0
+414,Zevenkamp,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.5,3.0,6.0
+415,Zevenkamp,Geluidshinder overig,normale groei,0.8666666666666667,13.0,15.0
+416,Zevenkamp,Melding overlast jeugd,normale groei,0.36363636363636365,4.0,11.0
+417,Zevenkamp,Overlast door verward persoon,normale groei,0.95,19.0,20.0
+418,Zevenkamp,Totaal misdrijven,normale groei,0.8,44.0,55.0
+419,Zevenkamp,Totaal registraties overlast,normale groei,0.8,40.0,50.0
+420,Oosterflank,"1.2.3 Diefstal van brom-, snor-, fietsen",extreem hoge groei,4.333333333333333,13.0,3.0
+421,Oosterflank,2.5.2 Winkeldiefstal,normale groei,0.5,3.0,6.0
+422,Oosterflank,Geluidshinder overig,normale groei,0.625,5.0,8.0
+423,Oosterflank,Totaal misdrijven,normale groei,1.0,65.0,65.0
+424,Oosterflank,Totaal registraties overlast,normale groei,0.5365853658536586,22.0,41.0
+425,Nesselande,Totaal misdrijven,extreem hoge groei,2.1176470588235294,36.0,17.0
+426,Nesselande,Totaal registraties overlast,normale groei,0.8666666666666667,13.0,15.0
+427,Charlois Zuidrand,Totaal misdrijven,normale groei,0.55,11.0,20.0
+428,Tarwewijk,1.2.1 Diefstal uit/vanaf motorvoertuigen,extreem hoge groei,16.0,16.0,1.0
+429,Tarwewijk,1.4.5 Mishandeling,extreem lage groei,0.2857142857142857,2.0,7.0
+430,Tarwewijk,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,0.8181818181818182,9.0,11.0
+431,Tarwewijk,Geluidshinder overig,normale groei,0.6153846153846154,16.0,26.0
+432,Tarwewijk,Totaal misdrijven,normale groei,0.968421052631579,92.0,95.0
+433,Tarwewijk,Totaal registraties overlast,normale groei,0.6721311475409836,41.0,61.0
+434,Carnisse,"1.2.3 Diefstal van brom-, snor-, fietsen",normale groei,1.0,3.0,3.0
+435,Carnisse,1.4.5 Mishandeling,normale groei,0.5,2.0,4.0
+436,Carnisse,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.4,7.0,5.0
+437,Carnisse,Geluidshinder overig,extreem lage groei,0.28,7.0,25.0
+438,Carnisse,Overlast door verward persoon,normale groei,0.9333333333333333,14.0,15.0
+439,Carnisse,Totaal misdrijven,normale groei,1.1964285714285714,67.0,56.0
+440,Carnisse,Totaal registraties overlast,normale groei,0.8,40.0,50.0
+441,Zuidwijk,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,4.0,8.0,2.0
+442,Zuidwijk,1.4.5 Mishandeling,normale groei,0.8333333333333334,5.0,6.0
+443,Zuidwijk,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.25,10.0,8.0
+444,Zuidwijk,Geluidshinder overig,normale groei,0.46153846153846156,12.0,26.0
+445,Zuidwijk,Overlast door verward persoon,normale groei,2.4,12.0,5.0
+446,Zuidwijk,Totaal misdrijven,normale groei,0.9560439560439561,87.0,91.0
+447,Zuidwijk,Totaal registraties overlast,normale groei,0.6666666666666666,38.0,57.0
+448,Oud Charlois,1.4.5 Mishandeling,normale groei,1.0,7.0,7.0
+449,Oud Charlois,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,2.25,9.0,4.0
+450,Oud Charlois,Geluidshinder overig,extreem lage groei,0.34782608695652173,8.0,23.0
+451,Oud Charlois,Overlast door verward persoon,normale groei,1.5,12.0,8.0
+452,Oud Charlois,Totaal misdrijven,normale groei,1.4745762711864407,87.0,59.0
+453,Oud Charlois,Totaal registraties overlast,normale groei,0.7,28.0,40.0
+454,Zuidplein,2.5.2 Winkeldiefstal,extreem hoge groei,4.333333333333333,13.0,3.0
+455,Zuidplein,Totaal misdrijven,extreem hoge groei,1.9428571428571428,68.0,35.0
+456,Zuidplein,Totaal registraties overlast,normale groei,0.775,31.0,40.0
+457,Pendrecht,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,1.2222222222222223,11.0,9.0
+458,Pendrecht,Geluidshinder overig,extreem lage groei,0.2222222222222222,2.0,9.0
+459,Pendrecht,Totaal misdrijven,normale groei,0.868421052631579,66.0,76.0
+460,Pendrecht,Totaal registraties overlast,normale groei,0.7142857142857143,20.0,28.0
+461,Zuiderpark,Totaal misdrijven,normale groei,1.8888888888888888,51.0,27.0
+462,Hoogvliet Noord,Geluidshinder overig,normale groei,0.5,7.0,14.0
+463,Hoogvliet Noord,Totaal misdrijven,normale groei,1.3777777777777778,62.0,45.0
+464,Hoogvliet Noord,Totaal registraties overlast,normale groei,0.8823529411764706,30.0,34.0
+465,Hoogvliet Zuid,2.2.1 Vernieling cq. zaakbeschadiging,normale groei,2.25,9.0,4.0
+466,Hoogvliet Zuid,Geluidshinder overig,extreem lage groei,0.23684210526315788,9.0,38.0
+467,Hoogvliet Zuid,Overlast door verward persoon,normale groei,1.8125,29.0,16.0
+468,Hoogvliet Zuid,Totaal misdrijven,normale groei,0.9242424242424242,61.0,66.0
+469,Hoogvliet Zuid,Totaal registraties overlast,extreem lage groei,0.618421052631579,47.0,76.0
+470,Strand en Duin,Totaal misdrijven,normale groei,0.875,7.0,8.0
+471,Dorp,Totaal misdrijven,normale groei,0.8125,13.0,16.0
+472,Dorp,Totaal registraties overlast,normale groei,0.4782608695652174,11.0,23.0
+473,Spaanse Polder,1.2.1 Diefstal uit/vanaf motorvoertuigen,normale groei,3.25,13.0,4.0
+474,Spaanse Polder,Totaal misdrijven,extreem hoge groei,2.8,70.0,25.0
+475,Nieuw Mathenesse,Totaal misdrijven,extreem hoge groei,4.636363636363637,51.0,11.0
+476,Waalhaven,Totaal misdrijven,normale groei,1.0,12.0,12.0
+477,Eemhaven,Totaal misdrijven,normale groei,0.5454545454545454,6.0,11.0
+478,Waalhaven Zuid,Totaal misdrijven,extreem hoge groei,5.5,11.0,2.0
+479,Botlek,Totaal misdrijven,normale groei,0.9565217391304348,22.0,23.0
+480,Europoort,Totaal misdrijven,normale groei,1.1,11.0,10.0
+481,Maasvlakte,Totaal misdrijven,normale groei,1.0666666666666667,16.0,15.0
+482,Bedrijvenpark Noord-West,Totaal misdrijven,normale groei,2.142857142857143,15.0,7.0
+483,Rozenburg,Geluidshinder overig,normale groei,0.29411764705882354,5.0,17.0
+484,Rozenburg,Melding overlast jeugd,normale groei,0.3125,5.0,16.0
+485,Rozenburg,Totaal misdrijven,normale groei,0.85,34.0,40.0
+486,Rozenburg,Totaal registraties overlast,extreem lage groei,0.2894736842105263,11.0,38.0
